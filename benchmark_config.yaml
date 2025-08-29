@@ -1,0 +1,101 @@
+dataset_path: 2025-07-moveset-gen3ou-1500.json
+models:
+- enabled: false
+  host: http://localhost:11434
+  max_tokens: 1000
+  model_name: llama3.3:70b
+  provider: ollama
+  temperature: 0
+- enabled: false
+  host: http://localhost:11434
+  max_tokens: 1000
+  model_name: qwen2.5:72b
+  provider: ollama
+  temperature: 0
+- enabled: false
+  host: http://localhost:11434
+  max_tokens: 1000
+  model_name: gpt-oss:20b
+  provider: ollama
+  temperature: 0
+- api_key: ${ANTHROPIC_API_KEY}
+  enabled: false
+  max_tokens: 1000
+  model_name: claude-sonnet-4-20250514
+  provider: claude
+  temperature: 0
+- api_key: ${ANTHROPIC_API_KEY}
+  enabled: false
+  max_tokens: 1000
+  model_name: claude-3-5-sonnet-20241022
+  provider: claude
+  temperature: 0
+- provider: openrouter
+  model_name: openai/gpt-5-mini
+  api_key: ${OPENROUTER_API_KEY}
+  enabled: false
+  max_tokens: 1000
+  temperature: 0
+- provider: deepseek
+  model_name: deepseek-chat
+  api_key: ${DEEPSEEK_API_KEY}
+  enabled: false
+  max_tokens: 1000
+  temperature: 0
+- provider: openrouter
+  model_name: x-ai/grok-code-fast-1
+  api_key: ${OPENROUTER_API_KEY}
+  enabled: true
+  max_tokens: 1000
+  temperature: 0
+- provider: openrouter
+  model_name: x-ai/grok-4
+  api_key: ${OPENROUTER_API_KEY}
+  enabled: true
+  max_tokens: 1000
+  temperature: 0
+- provider: openrouter
+  model_name: anthropic/claude-sonnet-4
+  api_key: ${OPENROUTER_API_KEY}
+  enabled: true
+  max_tokens: 1000
+  temperature: 0
+- provider: openrouter
+  model_name: google/gemini-2.5-pro
+  api_key: ${OPENROUTER_API_KEY}
+  enabled: true
+  max_tokens: 1000
+  temperature: 0
+- provider: openrouter
+  model_name: anthropic/claude-opus-4.1
+  api_key: ${OPENROUTER_API_KEY}
+  enabled: true
+  max_tokens: 1000
+  temperature: 0
+- provider: openrouter
+  model_name: openai/gpt-5
+  api_key: ${OPENROUTER_API_KEY}
+  enabled: true
+  max_tokens: 1000
+  temperature: 0
+- provider: openrouter
+  model_name: openai/gpt-5-mini
+  api_key: ${OPENROUTER_API_KEY}
+  enabled: true
+  max_tokens: 1000
+  temperature: 0
+- provider: openrouter
+  model_name: openai/o3
+  api_key: ${OPENROUTER_API_KEY}
+  enabled: true
+  max_tokens: 1000
+  temperature: 0
+output_dir: results
+parallel: true
+save_raw_responses: true
+use_metagame_analysis: true
+tasks:
+- counters
+- partners
+- moves
+test_subset: ["Porygon2"]

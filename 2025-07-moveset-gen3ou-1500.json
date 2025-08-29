@@ -1,0 +1,5070 @@
+{
+  "Metagross": {
+    "counters": [
+      "Moltres",
+      "Charizard",
+      "Blaziken",
+      "Marowak",
+      "Houndoom",
+      "Flygon",
+      "Typhlosion",
+      "Dugtrio",
+      "Arcanine",
+      "Swampert"
+    ],
+    "partners": [
+      "Tyranitar",
+      "Salamence",
+      "Snorlax",
+      "Suicune",
+      "Zapdos",
+      "Magneton",
+      "Celebi",
+      "Swampert",
+      "Starmie",
+      "Gengar"
+    ],
+    "moves": [
+      "Meteor Mash",
+      "Explosion",
+      "Earthquake",
+      "Rock Slide",
+      "Agility",
+      "Protect",
+      "Psychic",
+      "Hidden Power Fire",
+      "Nothing"
+    ]
+  },
+  "Swampert": {
+    "counters": [
+      "Ludicolo",
+      "Venusaur",
+      "Celebi",
+      "Milotic",
+      "Sceptile",
+      "Suicune",
+      "Cradily",
+      "Mantine",
+      "Kingdra",
+      "Exeggutor"
+    ],
+    "partners": [
+      "Tyranitar",
+      "Skarmory",
+      "Zapdos",
+      "Gengar",
+      "Blissey",
+      "Aerodactyl",
+      "Metagross",
+      "Salamence",
+      "Celebi",
+      "Starmie"
+    ],
+    "moves": [
+      "Ice Beam",
+      "Earthquake",
+      "Hydro Pump",
+      "Protect",
+      "Surf",
+      "Toxic",
+      "Refresh",
+      "Roar",
+      "Focus Punch",
+      "Substitute"
+    ]
+  },
+  "Skarmory": {
+    "counters": [
+      "Magneton",
+      "Charizard",
+      "Moltres",
+      "Houndoom",
+      "Blaziken",
+      "Jynx",
+      "Raikou",
+      "Gengar",
+      "Zapdos",
+      "Pikachu"
+    ],
+    "partners": [
+      "Tyranitar",
+      "Blissey",
+      "Gengar",
+      "Swampert",
+      "Starmie",
+      "Aerodactyl",
+      "Metagross",
+      "Zapdos",
+      "Celebi",
+      "Salamence"
+    ],
+    "moves": [
+      "Spikes",
+      "Roar",
+      "Protect",
+      "Toxic",
+      "Drill Peck",
+      "Taunt",
+      "Nothing"
+    ]
+  },
+  "Salamence": {
+    "counters": [
+      "Porygon2",
+      "Starmie",
+      "Gengar",
+      "Milotic",
+      "Suicune",
+      "Jynx",
+      "Wailord",
+      "Regice",
+      "Regirock",
+      "Raikou"
+    ],
+    "partners": [
+      "Metagross",
+      "Tyranitar",
+      "Snorlax",
+      "Magneton",
+      "Swampert",
+      "Suicune",
+      "Blissey",
+      "Celebi",
+      "Skarmory",
+      "Starmie"
+    ],
+    "moves": [
+      "Brick Break",
+      "Hidden Power Flying",
+      "Rock Slide",
+      "Earthquake",
+      "Dragon Dance",
+      "Dragon Claw",
+      "Fire Blast",
+      "Hidden Power Grass",
+      "Flamethrower",
+      "Wish"
+    ]
+  },
+  "Zapdos": {
+    "counters": [
+      "Cradily",
+      "Regice",
+      "Raikou",
+      "Jynx",
+      "Snorlax",
+      "Blissey",
+      "Camerupt",
+      "Aerodactyl",
+      "Regirock",
+      "Tyranitar"
+    ],
+    "partners": [
+      "Tyranitar",
+      "Swampert",
+      "Metagross",
+      "Dugtrio",
+      "Skarmory",
+      "Celebi",
+      "Suicune",
+      "Gengar",
+      "Blissey",
+      "Snorlax"
+    ],
+    "moves": [
+      "Thunderbolt",
+      "Hidden Power Grass",
+      "Baton Pass",
+      "Roar",
+      "Thunder Wave",
+      "Hidden Power Ice",
+      "Toxic",
+      "Substitute",
+      "Rest",
+      "Agility"
+    ]
+  },
+  "Gengar": {
+    "counters": [
+      "Alakazam",
+      "Raikou",
+      "Regice",
+      "Jirachi",
+      "Umbreon",
+      "Snorlax",
+      "Aerodactyl",
+      "Tyranitar",
+      "Dusclops",
+      "Metagross"
+    ],
+    "partners": [
+      "Tyranitar",
+      "Skarmory",
+      "Swampert",
+      "Blissey",
+      "Metagross",
+      "Zapdos",
+      "Starmie",
+      "Aerodactyl",
+      "Dugtrio",
+      "Jolteon"
+    ],
+    "moves": [
+      "Thunderbolt",
+      "Ice Punch",
+      "Explosion",
+      "Will-O-Wisp",
+      "Hidden Power Grass",
+      "Taunt",
+      "Fire Punch",
+      "Giga Drain",
+      "Destiny Bond",
+      "Hypnosis"
+    ]
+  },
+  "Blissey": {
+    "counters": [
+      "Machamp",
+      "Heracross",
+      "Medicham",
+      "Hariyama",
+      "Aggron",
+      "Snorlax",
+      "Metagross",
+      "Tyranitar",
+      "Breloom",
+      "Blaziken"
+    ],
+    "partners": [
+      "Tyranitar",
+      "Skarmory",
+      "Swampert",
+      "Gengar",
+      "Salamence",
+      "Starmie",
+      "Forretress",
+      "Zapdos",
+      "Claydol",
+      "Metagross"
+    ],
+    "moves": [
+      "Soft-Boiled",
+      "Ice Beam",
+      "Seismic Toss",
+      "Thunderbolt",
+      "Thunder Wave",
+      "Toxic",
+      "Calm Mind",
+      "Wish",
+      "Aromatherapy",
+      "Fire Blast"
+    ]
+  },
+  "Snorlax": {
+    "counters": [
+      "Breloom",
+      "Sableye",
+      "Machamp",
+      "Medicham",
+      "Heracross",
+      "Metagross",
+      "Regirock",
+      "Hariyama",
+      "Armaldo",
+      "Kingler"
+    ],
+    "partners": [
+      "Metagross",
+      "Salamence",
+      "Magneton",
+      "Suicune",
+      "Tyranitar",
+      "Zapdos",
+      "Swampert",
+      "Claydol",
+      "Celebi",
+      "Dugtrio"
+    ],
+    "moves": [
+      "Shadow Ball",
+      "Body Slam",
+      "Self-Destruct",
+      "Earthquake",
+      "Curse",
+      "Focus Punch",
+      "Rest",
+      "Return",
+      "Counter",
+      "Brick Break"
+    ]
+  },
+  "Suicune": {
+    "counters": [
+      "Raikou",
+      "Zapdos",
+      "Jolteon",
+      "Heracross",
+      "Poliwrath",
+      "Snorlax",
+      "Gyarados",
+      "Magneton",
+      "Sceptile",
+      "Celebi"
+    ],
+    "partners": [
+      "Metagross",
+      "Snorlax",
+      "Salamence",
+      "Magneton",
+      "Dugtrio",
+      "Zapdos",
+      "Claydol",
+      "Celebi",
+      "Tyranitar",
+      "Blissey"
+    ],
+    "moves": [
+      "Calm Mind",
+      "Surf",
+      "Rest",
+      "Ice Beam",
+      "Roar",
+      "Hydro Pump",
+      "Substitute",
+      "Sleep Talk",
+      "Nothing"
+    ]
+  },
+  "Celebi": {
+    "counters": [
+      "Houndoom",
+      "Charizard",
+      "Moltres",
+      "Jynx",
+      "Aerodactyl",
+      "Salamence",
+      "Heracross",
+      "Regice",
+      "Scyther",
+      "Typhlosion"
+    ],
+    "partners": [
+      "Tyranitar",
+      "Metagross",
+      "Swampert",
+      "Zapdos",
+      "Salamence",
+      "Skarmory",
+      "Magneton",
+      "Dugtrio",
+      "Starmie",
+      "Suicune"
+    ],
+    "moves": [
+      "Leech Seed",
+      "Psychic",
+      "Giga Drain",
+      "Baton Pass",
+      "Hidden Power Fire",
+      "Recover",
+      "Calm Mind",
+      "Hidden Power Grass",
+      "Swords Dance",
+      "Substitute"
+    ]
+  },
+  "Magneton": {
+    "counters": [
+      "Moltres",
+      "Flygon",
+      "Dugtrio",
+      "Houndoom",
+      "Camerupt",
+      "Charizard",
+      "Breloom",
+      "Tyranitar",
+      "Salamence",
+      "Medicham"
+    ],
+    "partners": [
+      "Snorlax",
+      "Metagross",
+      "Salamence",
+      "Suicune",
+      "Celebi",
+      "Tyranitar",
+      "Swampert",
+      "Heracross",
+      "Medicham",
+      "Aerodactyl"
+    ],
+    "moves": [
+      "Thunderbolt",
+      "Hidden Power Fire",
+      "Toxic",
+      "Thunder Wave",
+      "Hidden Power Grass",
+      "Protect",
+      "Rain Dance",
+      "Substitute",
+      "Endure",
+      "Nothing"
+    ]
+  },
+  "Dugtrio": {
+    "counters": [
+      "Aerodactyl",
+      "Skarmory",
+      "Exeggutor",
+      "Salamence",
+      "Gyarados",
+      "Weezing",
+      "Porygon2",
+      "Scizor",
+      "Flygon",
+      "Ninjask"
+    ],
+    "partners": [
+      "Zapdos",
+      "Suicune",
+      "Celebi",
+      "Metagross",
+      "Blissey",
+      "Tyranitar",
+      "Skarmory",
+      "Claydol",
+      "Gengar",
+      "Swampert"
+    ],
+    "moves": [
+      "Earthquake",
+      "Hidden Power Bug",
+      "Aerial Ace",
+      "Rock Slide",
+      "Beat Up",
+      "Sunny Day",
+      "Nothing"
+    ]
+  },
+  "Starmie": {
+    "counters": [
+      "Raikou",
+      "Snorlax",
+      "Sceptile",
+      "Regice",
+      "Jolteon",
+      "Umbreon",
+      "Electrode",
+      "Blissey",
+      "Zapdos",
+      "Aerodactyl"
+    ],
+    "partners": [
+      "Tyranitar",
+      "Skarmory",
+      "Metagross",
+      "Blissey",
+      "Gengar",
+      "Swampert",
+      "Celebi",
+      "Salamence",
+      "Zapdos",
+      "Dugtrio"
+    ],
+    "moves": [
+      "Rapid Spin",
+      "Ice Beam",
+      "Thunderbolt",
+      "Surf",
+      "Hydro Pump",
+      "Recover",
+      "Thunder Wave",
+      "Psychic",
+      "Nothing"
+    ]
+  },
+  "Aerodactyl": {
+    "counters": [
+      "Swampert",
+      "Porygon2",
+      "Electrode",
+      "Suicune",
+      "Metagross",
+      "Milotic",
+      "Kingdra",
+      "Donphan",
+      "Regirock",
+      "Marowak"
+    ],
+    "partners": [
+      "Tyranitar",
+      "Swampert",
+      "Skarmory",
+      "Metagross",
+      "Zapdos",
+      "Celebi",
+      "Gengar",
+      "Blissey",
+      "Salamence",
+      "Magneton"
+    ],
+    "moves": [
+      "Earthquake",
+      "Rock Slide",
+      "Double-Edge",
+      "Hidden Power Flying",
+      "Hidden Power Bug",
+      "Substitute",
+      "Nothing"
+    ]
+  },
+  "Jirachi": {
+    "counters": [
+      "Charizard",
+      "Houndoom",
+      "Camerupt",
+      "Moltres",
+      "Tyranitar",
+      "Marowak",
+      "Snorlax",
+      "Dugtrio",
+      "Raikou",
+      "Suicune"
+    ],
+    "partners": [
+      "Tyranitar",
+      "Skarmory",
+      "Zapdos",
+      "Salamence",
+      "Swampert",
+      "Celebi",
+      "Blissey",
+      "Dugtrio",
+      "Suicune",
+      "Gengar"
+    ],
+    "moves": [
+      "Fire Punch",
+      "Calm Mind",
+      "Wish",
+      "Protect",
+      "Psychic",
+      "Ice Punch",
+      "Body Slam",
+      "Hidden Power Grass",
+      "Thunderbolt",
+      "Substitute"
+    ]
+  },
+  "Claydol": {
+    "counters": [
+      "Heracross",
+      "Suicune",
+      "Sceptile",
+      "Swampert",
+      "Starmie",
+      "Jynx",
+      "Skarmory",
+      "Dusclops",
+      "Celebi",
+      "Cloyster"
+    ],
+    "partners": [
+      "Skarmory",
+      "Suicune",
+      "Blissey",
+      "Metagross",
+      "Tyranitar",
+      "Dugtrio",
+      "Snorlax",
+      "Salamence",
+      "Milotic",
+      "Magneton"
+    ],
+    "moves": [
+      "Rapid Spin",
+      "Earthquake",
+      "Explosion",
+      "Psychic",
+      "Refresh",
+      "Shadow Ball",
+      "Rock Slide",
+      "Ice Beam",
+      "Nothing"
+    ]
+  },
+  "Forretress": {
+    "counters": [
+      "Charizard",
+      "Jirachi",
+      "Blaziken",
+      "Moltres",
+      "Houndoom",
+      "Salamence",
+      "Breloom",
+      "Gengar",
+      "Arcanine",
+      "Tyranitar"
+    ],
+    "partners": [
+      "Tyranitar",
+      "Blissey",
+      "Swampert",
+      "Salamence",
+      "Zapdos",
+      "Aerodactyl",
+      "Jirachi",
+      "Gengar",
+      "Suicune",
+      "Dugtrio"
+    ],
+    "moves": [
+      "Spikes",
+      "Rapid Spin",
+      "Explosion",
+      "Earthquake",
+      "Hidden Power Bug",
+      "Zap Cannon",
+      "Hidden Power Ghost",
+      "Counter",
+      "Nothing"
+    ]
+  },
+  "Jolteon": {
+    "counters": [
+      "Camerupt",
+      "Blissey",
+      "Snorlax",
+      "Steelix",
+      "Regice",
+      "Registeel",
+      "Tyranitar",
+      "Celebi",
+      "Claydol",
+      "Porygon2"
+    ],
+    "partners": [
+      "Tyranitar",
+      "Metagross",
+      "Gengar",
+      "Skarmory",
+      "Starmie",
+      "Salamence",
+      "Swampert",
+      "Suicune",
+      "Dugtrio",
+      "Zapdos"
+    ],
+    "moves": [
+      "Thunderbolt",
+      "Baton Pass",
+      "Hidden Power Grass",
+      "Hidden Power Ice",
+      "Thunder Wave",
+      "Substitute",
+      "Roar",
+      "Toxic",
+      "Nothing"
+    ]
+  },
+  "Heracross": {
+    "counters": [
+      "Salamence",
+      "Charizard",
+      "Aerodactyl",
+      "Skarmory",
+      "Moltres",
+      "Alakazam",
+      "Blaziken",
+      "Gyarados"
+    ],
+    "partners": [
+      "Metagross",
+      "Magneton",
+      "Snorlax",
+      "Suicune",
+      "Salamence",
+      "Zapdos",
+      "Tyranitar",
+      "Dugtrio",
+      "Swampert",
+      "Celebi"
+    ],
+    "moves": [
+      "Megahorn",
+      "Rock Slide",
+      "Swords Dance",
+      "Substitute",
+      "Brick Break",
+      "Focus Punch",
+      "Reversal",
+      "Hidden Power Ghost",
+      "Endure",
+      "Sleep Talk"
+    ]
+  },
+  "Charizard": {
+    "counters": [
+      "Mantine",
+      "Milotic",
+      "Aerodactyl",
+      "Raikou",
+      "Starmie",
+      "Jolteon",
+      "Gyarados",
+      "Suicune",
+      "Kingdra",
+      "Zapdos"
+    ],
+    "partners": [
+      "Metagross",
+      "Tyranitar",
+      "Swampert",
+      "Gengar",
+      "Snorlax",
+      "Zapdos",
+      "Skarmory",
+      "Celebi",
+      "Blissey",
+      "Suicune"
+    ],
+    "moves": [
+      "Fire Blast",
+      "Hidden Power Grass",
+      "Substitute",
+      "Focus Punch",
+      "Beat Up",
+      "Dragon Claw",
+      "Flamethrower",
+      "Hidden Power Ice",
+      "Toxic",
+      "Brick Break"
+    ]
+  },
+  "Medicham": {
+    "counters": [
+      "Salamence",
+      "Aerodactyl",
+      "Heracross",
+      "Weezing",
+      "Metagross",
+      "Flygon",
+      "Charizard",
+      "Gyarados",
+      "Slaking",
+      "Marowak"
+    ],
+    "partners": [
+      "Metagross",
+      "Snorlax",
+      "Salamence",
+      "Suicune",
+      "Magneton",
+      "Tyranitar",
+      "Zapdos",
+      "Swampert",
+      "Celebi",
+      "Blissey"
+    ],
+    "moves": [
+      "Shadow Ball",
+      "Brick Break",
+      "Focus Punch",
+      "Rock Slide",
+      "Substitute",
+      "Bulk Up",
+      "Fake Out",
+      "Reversal",
+      "Baton Pass",
+      "Nothing"
+    ]
+  },
+  "Flygon": {
+    "counters": [
+      "Gengar",
+      "Porygon2",
+      "Skarmory",
+      "Suicune",
+      "Sceptile",
+      "Milotic",
+      "Starmie",
+      "Swampert",
+      "Kingdra",
+      "Ludicolo"
+    ],
+    "partners": [
+      "Tyranitar",
+      "Skarmory",
+      "Gengar",
+      "Zapdos",
+      "Jirachi",
+      "Blissey",
+      "Moltres",
+      "Metagross",
+      "Magneton",
+      "Aerodactyl"
+    ],
+    "moves": [
+      "Earthquake",
+      "Rock Slide",
+      "Toxic",
+      "Protect",
+      "Hidden Power Bug",
+      "Substitute",
+      "Fire Blast",
+      "Gust",
+      "Quick Attack",
+      "Flamethrower"
+    ]
+  },
+  "Gyarados": {
+    "counters": [
+      "Porygon2",
+      "Zapdos",
+      "Regice",
+      "Gengar",
+      "Aerodactyl",
+      "Marowak",
+      "Starmie",
+      "Jolteon",
+      "Snorlax",
+      "Raikou"
+    ],
+    "partners": [
+      "Metagross",
+      "Magneton",
+      "Snorlax",
+      "Tyranitar",
+      "Celebi",
+      "Salamence",
+      "Swampert",
+      "Blissey",
+      "Jolteon",
+      "Gengar"
+    ],
+    "moves": [
+      "Earthquake",
+      "Dragon Dance",
+      "Hidden Power Flying",
+      "Taunt",
+      "Double-Edge",
+      "Thunder Wave",
+      "Hidden Power Rock",
+      "Hidden Power Ghost",
+      "Rest",
+      "Roar"
+    ]
+  },
+  "Breloom": {
+    "counters": [
+      "Salamence",
+      "Charizard",
+      "Moltres",
+      "Starmie",
+      "Gengar",
+      "Aerodactyl",
+      "Celebi",
+      "Dragonite",
+      "Zapdos",
+      "Heracross"
+    ],
+    "partners": [
+      "Metagross",
+      "Tyranitar",
+      "Zapdos",
+      "Snorlax",
+      "Suicune",
+      "Swampert",
+      "Salamence",
+      "Magneton",
+      "Charizard",
+      "Jirachi"
+    ],
+    "moves": [
+      "Spore",
+      "Focus Punch",
+      "Mach Punch",
+      "Sky Uppercut",
+      "Substitute",
+      "Hidden Power Ghost",
+      "Leech Seed",
+      "Brick Break",
+      "Stun Spore",
+      "Swords Dance"
+    ]
+  },
+  "Milotic": {
+    "counters": [
+      "Raikou",
+      "Venusaur",
+      "Zapdos",
+      "Magneton",
+      "Snorlax",
+      "Jolteon",
+      "Heracross",
+      "Suicune",
+      "Celebi",
+      "Breloom"
+    ],
+    "partners": [
+      "Claydol",
+      "Blissey",
+      "Skarmory",
+      "Tyranitar",
+      "Dugtrio",
+      "Metagross",
+      "Magneton",
+      "Celebi",
+      "Snorlax",
+      "Salamence"
+    ],
+    "moves": [
+      "Recover",
+      "Surf",
+      "Refresh",
+      "Toxic",
+      "Ice Beam",
+      "Hypnosis",
+      "Nothing"
+    ]
+  },
+  "Moltres": {
+    "counters": [
+      "Aerodactyl",
+      "Blissey",
+      "Raikou",
+      "Jolteon",
+      "Starmie",
+      "Salamence",
+      "Zapdos",
+      "Milotic",
+      "Gyarados",
+      "Kingdra"
+    ],
+    "partners": [
+      "Tyranitar",
+      "Skarmory",
+      "Swampert",
+      "Gengar",
+      "Blissey",
+      "Flygon",
+      "Jirachi",
+      "Celebi",
+      "Zapdos",
+      "Metagross"
+    ],
+    "moves": [
+      "Hidden Power Grass",
+      "Flamethrower",
+      "Will-O-Wisp",
+      "Roar",
+      "Overheat",
+      "Protect",
+      "Fire Blast",
+      "Rest",
+      "Sunny Day",
+      "Nothing"
+    ]
+  },
+  "Raikou": {
+    "counters": [
+      "Snorlax",
+      "Aerodactyl",
+      "Dugtrio",
+      "Blissey",
+      "Tyranitar",
+      "Claydol",
+      "Metagross",
+      "Marowak"
+    ],
+    "partners": [
+      "Metagross",
+      "Suicune",
+      "Dugtrio",
+      "Salamence",
+      "Swampert",
+      "Celebi",
+      "Porygon2",
+      "Tyranitar",
+      "Claydol",
+      "Zapdos"
+    ],
+    "moves": [
+      "Thunderbolt",
+      "Calm Mind",
+      "Hidden Power Grass",
+      "Substitute",
+      "Crunch",
+      "Hidden Power Ice",
+      "Nothing"
+    ]
+  },
+  "Marowak": {
+    "counters": [
+      "Suicune",
+      "Starmie"
+    ],
+    "partners": [
+      "Magneton",
+      "Ninjask",
+      "Snorlax",
+      "Suicune",
+      "Zapdos",
+      "Metagross",
+      "Salamence",
+      "Celebi",
+      "Jirachi",
+      "Smeargle"
+    ],
+    "moves": [
+      "Earthquake",
+      "Swords Dance",
+      "Rock Slide",
+      "Double-Edge",
+      "Focus Punch",
+      "Hidden Power Bug",
+      "Hidden Power Ghost",
+      "Bonemerang",
+      "Hidden Power Rock",
+      "Nothing"
+    ]
+  },
+  "Smeargle": {
+    "counters": [
+      "Aerodactyl",
+      "Salamence",
+      "Medicham",
+      "Breloom",
+      "Dugtrio",
+      "Houndoom",
+      "Moltres",
+      "Raikou",
+      "Charizard",
+      "Jynx"
+    ],
+    "partners": [
+      "Metagross",
+      "Tyranitar",
+      "Aerodactyl",
+      "Gengar",
+      "Snorlax",
+      "Swampert",
+      "Salamence",
+      "Vaporeon",
+      "Marowak",
+      "Celebi"
+    ],
+    "moves": [
+      "Spore",
+      "Spikes",
+      "Explosion",
+      "Baton Pass",
+      "Dragon Dance",
+      "Substitute",
+      "Taunt",
+      "Destiny Bond",
+      "Thunder Wave",
+      "Will-O-Wisp"
+    ]
+  },
+  "Hariyama": {
+    "counters": [
+      "Metagross",
+      "Salamence",
+      "Breloom",
+      "Gyarados",
+      "Claydol",
+      "Venusaur",
+      "Celebi",
+      "Weezing",
+      "Zapdos",
+      "Skarmory"
+    ],
+    "partners": [
+      "Starmie",
+      "Blissey",
+      "Tyranitar",
+      "Salamence",
+      "Celebi",
+      "Metagross",
+      "Jirachi",
+      "Skarmory",
+      "Zapdos",
+      "Claydol"
+    ],
+    "moves": [
+      "Knock Off",
+      "Brick Break",
+      "Rock Slide",
+      "Focus Punch",
+      "Hidden Power Bug",
+      "Whirlwind",
+      "Hidden Power Ghost",
+      "Cross Chop",
+      "Rest",
+      "Belly Drum"
+    ]
+  },
+  "Kingdra": {
+    "counters": [
+      "Blissey",
+      "Suicune",
+      "Milotic",
+      "Snorlax",
+      "Ludicolo"
+    ],
+    "partners": [
+      "Dugtrio",
+      "Zapdos",
+      "Metagross",
+      "Heracross",
+      "Celebi",
+      "Suicune",
+      "Ludicolo",
+      "Gengar",
+      "Jirachi",
+      "Snorlax"
+    ],
+    "moves": [
+      "Rain Dance",
+      "Ice Beam",
+      "Surf",
+      "Hydro Pump",
+      "Hidden Power Grass",
+      "Hidden Power Electric",
+      "Substitute",
+      "Nothing"
+    ]
+  },
+  "Regice": {
+    "counters": [
+      "Metagross",
+      "Tyranitar",
+      "Regirock",
+      "Jirachi",
+      "Snorlax",
+      "Aerodactyl",
+      "Heracross",
+      "Medicham",
+      "Hariyama",
+      "Blaziken"
+    ],
+    "partners": [
+      "Metagross",
+      "Dugtrio",
+      "Suicune",
+      "Gengar",
+      "Salamence",
+      "Zapdos",
+      "Tyranitar",
+      "Skarmory",
+      "Claydol",
+      "Starmie"
+    ],
+    "moves": [
+      "Ice Beam",
+      "Thunderbolt",
+      "Explosion",
+      "Thunder Wave",
+      "Hidden Power Fire",
+      "Psych Up",
+      "Seismic Toss",
+      "Rain Dance",
+      "Nothing"
+    ]
+  },
+  "Cloyster": {
+    "counters": [
+      "Gengar",
+      "Magneton",
+      "Zapdos",
+      "Raikou",
+      "Sceptile",
+      "Jirachi",
+      "Jolteon",
+      "Celebi",
+      "Moltres",
+      "Charizard"
+    ],
+    "partners": [
+      "Metagross",
+      "Tyranitar",
+      "Gengar",
+      "Zapdos",
+      "Swampert",
+      "Jolteon",
+      "Salamence",
+      "Snorlax",
+      "Magneton",
+      "Blissey"
+    ],
+    "moves": [
+      "Spikes",
+      "Explosion",
+      "Surf",
+      "Rapid Spin",
+      "Ice Beam",
+      "Nothing"
+    ]
+  },
+  "Regirock": {
+    "counters": [
+      "Vaporeon",
+      "Breloom",
+      "Swampert",
+      "Suicune",
+      "Starmie",
+      "Metagross",
+      "Milotic",
+      "Flygon"
+    ],
+    "partners": [
+      "Metagross",
+      "Snorlax",
+      "Magneton",
+      "Suicune",
+      "Celebi",
+      "Salamence",
+      "Tyranitar",
+      "Zapdos",
+      "Claydol",
+      "Jirachi"
+    ],
+    "moves": [
+      "Explosion",
+      "Rock Slide",
+      "Thunder Wave",
+      "Superpower",
+      "Earthquake",
+      "Hidden Power Rock",
+      "Counter",
+      "Focus Punch",
+      "Hidden Power Bug",
+      "Curse"
+    ]
+  },
+  "Registeel": {
+    "counters": [
+      "Breloom",
+      "Charizard",
+      "Blaziken",
+      "Moltres",
+      "Machamp",
+      "Dusclops",
+      "Sableye",
+      "Medicham",
+      "Cradily"
+    ],
+    "partners": [
+      "Tyranitar",
+      "Salamence",
+      "Swampert",
+      "Metagross",
+      "Skarmory",
+      "Starmie",
+      "Aerodactyl",
+      "Claydol",
+      "Charizard",
+      "Raikou"
+    ],
+    "moves": [
+      "Explosion",
+      "Thunder Wave",
+      "Seismic Toss",
+      "Counter",
+      "Superpower",
+      "Rest",
+      "Earthquake",
+      "Curse",
+      "Toxic",
+      "Hidden Power Steel"
+    ]
+  },
+  "Vaporeon": {
+    "counters": [
+      "Celebi",
+      "Snorlax",
+      "Jolteon",
+      "Poliwrath",
+      "Lanturn",
+      "Zapdos",
+      "Blissey",
+      "Jirachi",
+      "Raikou",
+      "Regice"
+    ],
+    "partners": [
+      "Metagross",
+      "Smeargle",
+      "Tyranitar",
+      "Snorlax",
+      "Salamence",
+      "Zapdos",
+      "Gengar",
+      "Dugtrio",
+      "Celebi",
+      "Marowak"
+    ],
+    "moves": [
+      "Baton Pass",
+      "Substitute",
+      "Ice Beam",
+      "Hydro Pump",
+      "Surf",
+      "Wish",
+      "Roar",
+      "Protect",
+      "Toxic",
+      "Nothing"
+    ]
+  },
+  "Ninjask": {
+    "counters": [
+      "Skarmory",
+      "Suicune",
+      "Snorlax",
+      "Jirachi",
+      "Zapdos",
+      "Gengar",
+      "Swampert",
+      "Steelix",
+      "Raikou",
+      "Magneton"
+    ],
+    "partners": [
+      "Magneton",
+      "Marowak",
+      "Suicune",
+      "Heracross",
+      "Snorlax",
+      "Breloom",
+      "Celebi",
+      "Jirachi",
+      "Metagross",
+      "Medicham"
+    ],
+    "moves": [
+      "Baton Pass",
+      "Substitute",
+      "Protect",
+      "Toxic",
+      "Silver Wind",
+      "Sand Attack",
+      "Hidden Power Rock",
+      "Shadow Ball",
+      "Hidden Power Bug",
+      "Hidden Power Flying"
+    ]
+  },
+  "Porygon2": {
+    "counters": [
+      "Magneton",
+      "Raikou",
+      "Hariyama",
+      "Heracross",
+      "Snorlax",
+      "Medicham",
+      "Metagross",
+      "Machamp",
+      "Breloom",
+      "Jynx"
+    ],
+    "partners": [
+      "Celebi",
+      "Raikou",
+      "Jirachi",
+      "Dugtrio",
+      "Suicune",
+      "Metagross",
+      "Swampert",
+      "Tyranitar",
+      "Magneton",
+      "Starmie"
+    ],
+    "moves": [
+      "Recover",
+      "Ice Beam",
+      "Thunderbolt",
+      "Thunder Wave",
+      "Toxic",
+      "Hidden Power Fighting",
+      "Nothing"
+    ]
+  },
+  "Houndoom": {
+    "counters": [
+      "Aerodactyl",
+      "Dugtrio",
+      "Tyranitar",
+      "Starmie",
+      "Snorlax",
+      "Suicune",
+      "Gyarados",
+      "Kingdra",
+      "Milotic",
+      "Blissey"
+    ],
+    "partners": [
+      "Snorlax",
+      "Metagross",
+      "Salamence",
+      "Magneton",
+      "Swampert",
+      "Forretress",
+      "Zapdos",
+      "Breloom",
+      "Claydol",
+      "Celebi"
+    ],
+    "moves": [
+      "Pursuit",
+      "Fire Blast",
+      "Will-O-Wisp",
+      "Crunch",
+      "Hidden Power Grass",
+      "Flamethrower",
+      "Beat Up",
+      "Hidden Power Ice",
+      "Sunny Day",
+      "Nothing"
+    ]
+  },
+  "Ludicolo": {
+    "counters": [
+      "Heracross",
+      "Gyarados"
+    ],
+    "partners": [
+      "Dugtrio",
+      "Metagross",
+      "Kingdra",
+      "Gengar",
+      "Salamence",
+      "Zapdos",
+      "Tyranitar",
+      "Snorlax",
+      "Heracross",
+      "Magneton"
+    ],
+    "moves": [
+      "Rain Dance",
+      "Ice Beam",
+      "Leech Seed",
+      "Surf",
+      "Hydro Pump",
+      "Giga Drain",
+      "Hidden Power Grass",
+      "Metronome",
+      "Nothing"
+    ]
+  },
+  "Jynx": {
+    "counters": [
+      "Aerodactyl",
+      "Dugtrio",
+      "Snorlax",
+      "Tyranitar",
+      "Charizard",
+      "Metagross"
+    ],
+    "partners": [
+      "Dugtrio",
+      "Suicune",
+      "Metagross",
+      "Zapdos",
+      "Celebi",
+      "Jirachi",
+      "Heracross",
+      "Snorlax",
+      "Gengar",
+      "Starmie"
+    ],
+    "moves": [
+      "Ice Beam",
+      "Lovely Kiss",
+      "Substitute",
+      "Calm Mind",
+      "Perish Song",
+      "Mean Look",
+      "Psychic",
+      "Nothing"
+    ]
+  },
+  "Blaziken": {
+    "counters": [
+      "Starmie",
+      "Aerodactyl",
+      "Milotic",
+      "Vaporeon",
+      "Suicune",
+      "Dugtrio",
+      "Flygon",
+      "Salamence",
+      "Claydol",
+      "Swampert"
+    ],
+    "partners": [
+      "Snorlax",
+      "Metagross",
+      "Tyranitar",
+      "Zapdos",
+      "Salamence",
+      "Swampert",
+      "Gengar",
+      "Celebi",
+      "Suicune",
+      "Skarmory"
+    ],
+    "moves": [
+      "Fire Blast",
+      "Sky Uppercut",
+      "Hidden Power Grass",
+      "Thunder Punch",
+      "Hidden Power Ice",
+      "Substitute",
+      "Focus Punch",
+      "Reversal",
+      "Overheat",
+      "Rock Slide"
+    ]
+  },
+  "Umbreon": {
+    "counters": [
+      "Breloom",
+      "Skarmory",
+      "Heracross",
+      "Medicham",
+      "Forretress",
+      "Hariyama",
+      "Smeargle",
+      "Metagross",
+      "Tyranitar",
+      "Suicune"
+    ],
+    "partners": [
+      "Forretress",
+      "Swampert",
+      "Magneton",
+      "Blissey",
+      "Snorlax",
+      "Zapdos",
+      "Celebi",
+      "Skarmory",
+      "Gengar",
+      "Salamence"
+    ],
+    "moves": [
+      "Wish",
+      "Protect",
+      "Pursuit",
+      "Toxic",
+      "Baton Pass",
+      "Taunt",
+      "Substitute",
+      "Charm",
+      "Curse",
+      "Sand Attack"
+    ]
+  },
+  "Alakazam": {
+    "counters": [
+      "Aerodactyl",
+      "Snorlax",
+      "Tyranitar",
+      "Houndoom",
+      "Metagross"
+    ],
+    "partners": [
+      "Swampert",
+      "Metagross",
+      "Tyranitar",
+      "Dugtrio",
+      "Suicune",
+      "Snorlax",
+      "Gengar",
+      "Celebi",
+      "Zapdos",
+      "Salamence"
+    ],
+    "moves": [
+      "Psychic",
+      "Calm Mind",
+      "Fire Punch",
+      "Hidden Power Grass",
+      "Encore",
+      "Ice Punch",
+      "Trick",
+      "Knock Off",
+      "Thunder Punch",
+      "Hidden Power Water"
+    ]
+  },
+  "Machamp": {
+    "counters": [
+      "Salamence",
+      "Metagross",
+      "Starmie",
+      "Aerodactyl"
+    ],
+    "partners": [
+      "Zapdos",
+      "Snorlax",
+      "Metagross",
+      "Salamence",
+      "Tyranitar",
+      "Suicune",
+      "Starmie",
+      "Jirachi",
+      "Marowak",
+      "Breloom"
+    ],
+    "moves": [
+      "Rock Slide",
+      "Cross Chop",
+      "Bulk Up",
+      "Hidden Power Bug",
+      "Hidden Power Ghost",
+      "Focus Punch",
+      "Encore",
+      "Low Kick",
+      "Brick Break",
+      "Sleep Talk"
+    ]
+  },
+  "Slaking": {
+    "counters": [
+      "Skarmory",
+      "Forretress",
+      "Ninjask",
+      "Jirachi",
+      "Swampert",
+      "Aerodactyl"
+    ],
+    "partners": [
+      "Magneton",
+      "Metagross",
+      "Snorlax",
+      "Blissey",
+      "Skarmory",
+      "Charizard",
+      "Sceptile",
+      "Salamence",
+      "Donphan",
+      "Umbreon"
+    ],
+    "moves": [
+      "Earthquake",
+      "Shadow Ball",
+      "Focus Punch",
+      "Return",
+      "Double-Edge",
+      "Hyper Beam",
+      "Brick Break",
+      "Encore",
+      "Slack Off",
+      "Nothing"
+    ]
+  },
+  "Dusclops": {
+    "counters": [
+      "Suicune",
+      "Tyranitar",
+      "Houndoom",
+      "Metagross",
+      "Charizard",
+      "Marowak",
+      "Magneton",
+      "Moltres",
+      "Kingdra"
+    ],
+    "partners": [
+      "Skarmory",
+      "Blissey",
+      "Claydol",
+      "Suicune",
+      "Dugtrio",
+      "Forretress",
+      "Salamence",
+      "Swampert",
+      "Zapdos",
+      "Snorlax"
+    ],
+    "moves": [
+      "Will-O-Wisp",
+      "Shadow Ball",
+      "Rest",
+      "Pain Split",
+      "Seismic Toss",
+      "Curse",
+      "Imprison",
+      "Focus Punch",
+      "Night Shade",
+      "Sleep Talk"
+    ]
+  },
+  "Weezing": {
+    "counters": [
+      "Jynx",
+      "Suicune",
+      "Zapdos",
+      "Milotic",
+      "Jirachi",
+      "Vaporeon",
+      "Starmie",
+      "Moltres",
+      "Charizard",
+      "Celebi"
+    ],
+    "partners": [
+      "Metagross",
+      "Tyranitar",
+      "Snorlax",
+      "Blissey",
+      "Starmie",
+      "Zapdos",
+      "Celebi",
+      "Gengar",
+      "Flygon",
+      "Charizard"
+    ],
+    "moves": [
+      "Will-O-Wisp",
+      "Sludge Bomb",
+      "Explosion",
+      "Pain Split",
+      "Haze",
+      "Fire Blast",
+      "Flamethrower",
+      "Hidden Power Grass",
+      "Thief",
+      "Thunderbolt"
+    ]
+  },
+  "Venusaur": {
+    "counters": [
+      "Aerodactyl",
+      "Charizard",
+      "Salamence",
+      "Moltres"
+    ],
+    "partners": [
+      "Tyranitar",
+      "Swampert",
+      "Snorlax",
+      "Metagross",
+      "Skarmory",
+      "Salamence",
+      "Zapdos",
+      "Aerodactyl",
+      "Suicune",
+      "Charizard"
+    ],
+    "moves": [
+      "Sleep Powder",
+      "Leech Seed",
+      "Giga Drain",
+      "Hidden Power Fire",
+      "Sludge Bomb",
+      "Hidden Power Ice",
+      "Earthquake",
+      "Razor Leaf",
+      "Roar",
+      "Swords Dance"
+    ]
+  },
+  "Sceptile": {
+    "counters": [
+      "Aerodactyl",
+      "Regice",
+      "Snorlax",
+      "Jirachi",
+      "Heracross",
+      "Blissey"
+    ],
+    "partners": [
+      "Metagross",
+      "Snorlax",
+      "Charizard",
+      "Magneton",
+      "Tyranitar",
+      "Zapdos",
+      "Donphan",
+      "Slaking",
+      "Swampert",
+      "Dugtrio"
+    ],
+    "moves": [
+      "Leaf Blade",
+      "Hidden Power Ice",
+      "Substitute",
+      "Leech Seed",
+      "Thunder Punch",
+      "Pursuit",
+      "Hidden Power Fire",
+      "Dragon Claw",
+      "Crunch",
+      "Focus Punch"
+    ]
+  },
+  "Glalie": {
+    "counters": [
+      "Metagross",
+      "Tyranitar",
+      "Regirock",
+      "Jirachi",
+      "Magneton",
+      "Moltres",
+      "Aerodactyl",
+      "Slaking",
+      "Heracross",
+      "Medicham"
+    ],
+    "partners": [
+      "Gengar",
+      "Tyranitar",
+      "Swampert",
+      "Jolteon",
+      "Aerodactyl",
+      "Moltres",
+      "Metagross",
+      "Dugtrio",
+      "Zapdos",
+      "Gyarados"
+    ],
+    "moves": [
+      "Spikes",
+      "Explosion",
+      "Ice Beam",
+      "Taunt",
+      "Hidden Power Fire",
+      "Toxic",
+      "Hidden Power Grass",
+      "Nothing"
+    ]
+  },
+  "Steelix": {
+    "counters": [
+      "Swampert",
+      "Breloom",
+      "Skarmory",
+      "Suicune",
+      "Moltres",
+      "Starmie",
+      "Cloyster",
+      "Charizard",
+      "Milotic"
+    ],
+    "partners": [
+      "Snorlax",
+      "Gengar",
+      "Tyranitar",
+      "Zapdos",
+      "Starmie",
+      "Suicune",
+      "Forretress",
+      "Charizard",
+      "Gyarados",
+      "Salamence"
+    ],
+    "moves": [
+      "Earthquake",
+      "Roar",
+      "Explosion",
+      "Hidden Power Rock",
+      "Protect",
+      "Rock Slide",
+      "Toxic",
+      "Iron Tail",
+      "Double-Edge",
+      "Body Slam"
+    ]
+  },
+  "Donphan": {
+    "counters": [
+      "Swampert",
+      "Suicune",
+      "Starmie",
+      "Milotic",
+      "Celebi",
+      "Kingdra",
+      "Gengar",
+      "Skarmory",
+      "Porygon2",
+      "Cloyster"
+    ],
+    "partners": [
+      "Skarmory",
+      "Tyranitar",
+      "Snorlax",
+      "Blissey",
+      "Metagross",
+      "Sceptile",
+      "Slaking",
+      "Charizard",
+      "Magneton",
+      "Celebi"
+    ],
+    "moves": [
+      "Earthquake",
+      "Rapid Spin",
+      "Hidden Power Rock",
+      "Roar",
+      "Rock Slide",
+      "Protect",
+      "Rest",
+      "Hidden Power Ghost",
+      "Toxic",
+      "Nothing"
+    ]
+  },
+  "Scizor": {
+    "counters": [],
+    "partners": [
+      "Tyranitar",
+      "Metagross",
+      "Breloom",
+      "Snorlax",
+      "Magneton",
+      "Milotic",
+      "Gyarados",
+      "Salamence",
+      "Celebi",
+      "Aerodactyl"
+    ],
+    "moves": [
+      "Swords Dance",
+      "Reversal",
+      "Hidden Power Rock",
+      "Endure",
+      "Agility",
+      "Silver Wind",
+      "Hidden Power Bug",
+      "Substitute",
+      "Hidden Power Ghost",
+      "Steel Wing"
+    ]
+  },
+  "Camerupt": {
+    "counters": [
+      "Dugtrio",
+      "Starmie",
+      "Swampert",
+      "Aerodactyl",
+      "Flygon",
+      "Suicune",
+      "Tyranitar"
+    ],
+    "partners": [
+      "Metagross",
+      "Snorlax",
+      "Salamence",
+      "Heracross",
+      "Suicune",
+      "Magneton",
+      "Gyarados",
+      "Zapdos",
+      "Tyranitar",
+      "Celebi"
+    ],
+    "moves": [
+      "Explosion",
+      "Earthquake",
+      "Fire Blast",
+      "Hidden Power Grass",
+      "Toxic",
+      "Rock Slide",
+      "Flamethrower",
+      "Overheat",
+      "Eruption",
+      "Substitute"
+    ]
+  },
+  "Dragonite": {
+    "counters": [
+      "Suicune",
+      "Starmie",
+      "Gengar",
+      "Swampert",
+      "Blissey"
+    ],
+    "partners": [
+      "Snorlax",
+      "Swampert",
+      "Metagross",
+      "Suicune",
+      "Forretress",
+      "Dugtrio",
+      "Zapdos",
+      "Gengar",
+      "Tyranitar",
+      "Jolteon"
+    ],
+    "moves": [
+      "Hidden Power Flying",
+      "Earthquake",
+      "Heal Bell",
+      "Dragon Dance",
+      "Ice Beam",
+      "Focus Punch",
+      "Thunderbolt",
+      "Brick Break",
+      "Substitute",
+      "Flamethrower"
+    ]
+  },
+  "Articuno": {
+    "counters": [
+      "Metagross",
+      "Aerodactyl",
+      "Raikou",
+      "Heracross",
+      "Tyranitar",
+      "Moltres",
+      "Jirachi",
+      "Magneton",
+      "Snorlax",
+      "Charizard"
+    ],
+    "partners": [
+      "Flygon",
+      "Skarmory",
+      "Zapdos",
+      "Jirachi",
+      "Gengar",
+      "Moltres",
+      "Tyranitar",
+      "Aerodactyl",
+      "Dugtrio",
+      "Weezing"
+    ],
+    "moves": [
+      "Ice Beam",
+      "Rest",
+      "Heal Bell",
+      "Roar",
+      "Sleep Talk",
+      "Haze",
+      "Toxic",
+      "Substitute",
+      "Protect",
+      "Nothing"
+    ]
+  },
+  "Arcanine": {
+    "counters": [
+      "Milotic",
+      "Aerodactyl",
+      "Swampert",
+      "Suicune",
+      "Starmie",
+      "Vaporeon"
+    ],
+    "partners": [
+      "Metagross",
+      "Snorlax",
+      "Tyranitar",
+      "Celebi",
+      "Zapdos",
+      "Magneton",
+      "Jolteon",
+      "Breloom",
+      "Gengar",
+      "Swampert"
+    ],
+    "moves": [
+      "Extreme Speed",
+      "Hidden Power Fighting",
+      "Overheat",
+      "Fire Blast",
+      "Toxic",
+      "Thief",
+      "Hidden Power Grass",
+      "Iron Tail",
+      "Roar",
+      "Flamethrower"
+    ]
+  },
+  "Armaldo": {
+    "counters": [
+      "Metagross",
+      "Swampert",
+      "Suicune",
+      "Regirock",
+      "Heracross",
+      "Milotic"
+    ],
+    "partners": [
+      "Blissey",
+      "Swampert",
+      "Skarmory",
+      "Zapdos",
+      "Metagross",
+      "Tyranitar",
+      "Suicune",
+      "Claydol",
+      "Starmie",
+      "Gengar"
+    ],
+    "moves": [
+      "Hidden Power Bug",
+      "Knock Off",
+      "Rock Slide",
+      "Swords Dance",
+      "Earthquake",
+      "Rock Blast",
+      "Rapid Spin",
+      "Rest",
+      "Harden",
+      "Brick Break"
+    ]
+  },
+  "Misdreavus": {
+    "counters": [
+      "Tyranitar",
+      "Metagross",
+      "Moltres",
+      "Zapdos",
+      "Magneton",
+      "Salamence",
+      "Snorlax"
+    ],
+    "partners": [
+      "Skarmory",
+      "Blissey",
+      "Flygon",
+      "Zapdos",
+      "Moltres",
+      "Aerodactyl",
+      "Tyranitar",
+      "Jirachi",
+      "Claydol",
+      "Dugtrio"
+    ],
+    "moves": [
+      "Perish Song",
+      "Mean Look",
+      "Rest",
+      "Thunderbolt",
+      "Protect",
+      "Taunt",
+      "Pain Split",
+      "Destiny Bond",
+      "Psywave",
+      "Toxic"
+    ]
+  },
+  "Wailord": {
+    "counters": [
+      "Zapdos",
+      "Jirachi"
+    ],
+    "partners": [
+      "Kingdra",
+      "Ludicolo",
+      "Qwilfish",
+      "Pikachu",
+      "Kabutops",
+      "Dugtrio",
+      "Metagross",
+      "Zapdos",
+      "Suicune",
+      "Jolteon"
+    ],
+    "moves": [
+      "Self-Destruct",
+      "Ice Beam",
+      "Water Spout",
+      "Hydro Pump",
+      "Rain Dance",
+      "Toxic",
+      "Surf",
+      "Nothing"
+    ]
+  },
+  "Quagsire": {
+    "counters": [
+      "Celebi",
+      "Skarmory",
+      "Zapdos",
+      "Gengar",
+      "Forretress",
+      "Breloom",
+      "Charizard"
+    ],
+    "partners": [
+      "Tyranitar",
+      "Blissey",
+      "Forretress",
+      "Skarmory",
+      "Salamence",
+      "Gengar",
+      "Zapdos",
+      "Jirachi",
+      "Aerodactyl",
+      "Blaziken"
+    ],
+    "moves": [
+      "Earthquake",
+      "Ice Beam",
+      "Rest",
+      "Curse",
+      "Counter",
+      "Haze",
+      "Surf",
+      "Toxic",
+      "Protect",
+      "Focus Punch"
+    ]
+  },
+  "Poliwrath": {
+    "counters": [
+      "Zapdos"
+    ],
+    "partners": [
+      "Salamence",
+      "Zapdos",
+      "Marowak",
+      "Metagross",
+      "Magneton",
+      "Snorlax",
+      "Ninjask",
+      "Celebi",
+      "Hariyama",
+      "Suicune"
+    ],
+    "moves": [
+      "Brick Break",
+      "Belly Drum",
+      "Hypnosis",
+      "Hidden Power Ghost",
+      "Focus Punch",
+      "Hidden Power Rock",
+      "Substitute",
+      "Bulk Up",
+      "Earthquake",
+      "Hidden Power Flying"
+    ]
+  },
+  "Sableye": {
+    "counters": [
+      "Tyranitar",
+      "Metagross",
+      "Suicune",
+      "Milotic",
+      "Salamence",
+      "Magneton",
+      "Zapdos",
+      "Moltres",
+      "Starmie",
+      "Charizard"
+    ],
+    "partners": [
+      "Blissey",
+      "Skarmory",
+      "Claydol",
+      "Milotic",
+      "Dugtrio",
+      "Starmie",
+      "Tyranitar",
+      "Forretress",
+      "Donphan",
+      "Porygon2"
+    ],
+    "moves": [
+      "Recover",
+      "Knock Off",
+      "Seismic Toss",
+      "Psych Up",
+      "Toxic",
+      "Taunt",
+      "Nothing"
+    ]
+  },
+  "Lanturn": {
+    "counters": [
+      "Breloom",
+      "Snorlax",
+      "Dugtrio",
+      "Aerodactyl",
+      "Celebi",
+      "Blissey",
+      "Jirachi",
+      "Medicham",
+      "Heracross"
+    ],
+    "partners": [
+      "Tyranitar",
+      "Skarmory",
+      "Metagross",
+      "Celebi",
+      "Salamence",
+      "Aerodactyl",
+      "Gengar",
+      "Glalie",
+      "Dugtrio",
+      "Swampert"
+    ],
+    "moves": [
+      "Thunderbolt",
+      "Ice Beam",
+      "Surf",
+      "Hydro Pump",
+      "Thunder Wave",
+      "Toxic",
+      "Substitute",
+      "Hidden Power Grass",
+      "Confuse Ray",
+      "Rest"
+    ]
+  },
+  "Cradily": {
+    "counters": [
+      "Metagross"
+    ],
+    "partners": [
+      "Magneton",
+      "Ninjask",
+      "Marowak",
+      "Jirachi",
+      "Jolteon",
+      "Aerodactyl",
+      "Skarmory",
+      "Gengar",
+      "Suicune",
+      "Smeargle"
+    ],
+    "moves": [
+      "Earthquake",
+      "Rock Slide",
+      "Confuse Ray",
+      "Hidden Power Grass",
+      "Toxic",
+      "Recover",
+      "Barrier",
+      "Hidden Power Rock",
+      "Amnesia",
+      "Rest"
+    ]
+  },
+  "Blastoise": {
+    "counters": [
+      "Celebi",
+      "Regice",
+      "Blissey",
+      "Zapdos",
+      "Starmie",
+      "Jolteon",
+      "Magneton",
+      "Snorlax",
+      "Jirachi"
+    ],
+    "partners": [
+      "Blissey",
+      "Skarmory",
+      "Gengar",
+      "Tyranitar",
+      "Metagross",
+      "Dugtrio",
+      "Jirachi",
+      "Flygon",
+      "Salamence",
+      "Gyarados"
+    ],
+    "moves": [
+      "Surf",
+      "Rapid Spin",
+      "Roar",
+      "Ice Beam",
+      "Refresh",
+      "Yawn",
+      "Protect",
+      "Rest",
+      "Hydro Pump",
+      "Haze"
+    ]
+  },
+  "Exeggutor": {
+    "counters": [],
+    "partners": [
+      "Dugtrio",
+      "Snorlax",
+      "Metagross",
+      "Forretress",
+      "Charizard",
+      "Salamence",
+      "Gengar",
+      "Poliwrath",
+      "Suicune",
+      "Zapdos"
+    ],
+    "moves": [
+      "Solar Beam",
+      "Sunny Day",
+      "Explosion",
+      "Psychic",
+      "Sleep Powder",
+      "Hidden Power Fire",
+      "Hidden Power Ice",
+      "Giga Drain",
+      "Leech Seed",
+      "Nothing"
+    ]
+  },
+  "Pikachu": {
+    "counters": [
+      "Aerodactyl",
+      "Blissey"
+    ],
+    "partners": [
+      "Kingdra",
+      "Qwilfish",
+      "Ludicolo",
+      "Wailord",
+      "Kabutops",
+      "Suicune",
+      "Dugtrio",
+      "Omastar",
+      "Zapdos",
+      "Metagross"
+    ],
+    "moves": [
+      "Surf",
+      "Hidden Power Ice",
+      "Thunder",
+      "Quick Attack",
+      "Hidden Power Grass",
+      "Substitute",
+      "Thunderbolt",
+      "Volt Tackle",
+      "Encore",
+      "Thunder Wave"
+    ]
+  },
+  "Gardevoir": {
+    "counters": [
+      "Aerodactyl",
+      "Tyranitar"
+    ],
+    "partners": [
+      "Magneton",
+      "Dugtrio",
+      "Metagross",
+      "Snorlax",
+      "Gengar",
+      "Jolteon",
+      "Starmie",
+      "Aerodactyl",
+      "Medicham",
+      "Heracross"
+    ],
+    "moves": [
+      "Psychic",
+      "Calm Mind",
+      "Thunderbolt",
+      "Memento",
+      "Fire Punch",
+      "Destiny Bond",
+      "Will-O-Wisp",
+      "Ice Punch",
+      "Reflect",
+      "Substitute"
+    ]
+  },
+  "Miltank": {
+    "counters": [
+      "Suicune",
+      "Skarmory"
+    ],
+    "partners": [
+      "Metagross",
+      "Magneton",
+      "Dugtrio",
+      "Zapdos",
+      "Celebi",
+      "Gengar",
+      "Salamence",
+      "Medicham",
+      "Snorlax",
+      "Tyranitar"
+    ],
+    "moves": [
+      "Milk Drink",
+      "Heal Bell",
+      "Body Slam",
+      "Thunder Wave",
+      "Curse",
+      "Earthquake",
+      "Shadow Ball",
+      "Seismic Toss",
+      "Nothing"
+    ]
+  },
+  "Tauros": {
+    "counters": [
+      "Skarmory"
+    ],
+    "partners": [
+      "Magneton",
+      "Gyarados",
+      "Metagross",
+      "Snorlax",
+      "Celebi",
+      "Salamence",
+      "Blissey",
+      "Medicham",
+      "Swampert",
+      "Milotic"
+    ],
+    "moves": [
+      "Earthquake",
+      "Hidden Power Ghost",
+      "Return",
+      "Double-Edge",
+      "Hyper Beam",
+      "Substitute",
+      "Body Slam",
+      "Iron Tail",
+      "Frustration",
+      "Refresh"
+    ]
+  },
+  "Qwilfish": {
+    "counters": [
+      "Skarmory"
+    ],
+    "partners": [
+      "Kingdra",
+      "Pikachu",
+      "Ludicolo",
+      "Wailord",
+      "Kabutops",
+      "Omastar",
+      "Swampert",
+      "Gengar",
+      "Jolteon",
+      "Seaking"
+    ],
+    "moves": [
+      "Self-Destruct",
+      "Sludge Bomb",
+      "Shadow Ball",
+      "Hidden Power Fighting",
+      "Hydro Pump",
+      "Destiny Bond",
+      "Spikes",
+      "Thunder Wave",
+      "Nothing"
+    ]
+  },
+  "Rhydon": {
+    "counters": [
+      "Flygon",
+      "Milotic",
+      "Swampert",
+      "Suicune"
+    ],
+    "partners": [
+      "Starmie",
+      "Jirachi",
+      "Zapdos",
+      "Salamence",
+      "Gyarados",
+      "Celebi",
+      "Hariyama",
+      "Tyranitar",
+      "Metagross",
+      "Machamp"
+    ],
+    "moves": [
+      "Earthquake",
+      "Rock Slide",
+      "Substitute",
+      "Megahorn",
+      "Swords Dance",
+      "Double-Edge",
+      "Focus Punch",
+      "Rock Blast",
+      "Nothing"
+    ]
+  },
+  "Kabutops": {
+    "counters": [],
+    "partners": [
+      "Ludicolo",
+      "Kingdra",
+      "Qwilfish",
+      "Pikachu",
+      "Wailord",
+      "Magneton",
+      "Dugtrio",
+      "Gengar",
+      "Skarmory",
+      "Tyranitar"
+    ],
+    "moves": [
+      "Rock Slide",
+      "Swords Dance",
+      "Flail",
+      "Endure",
+      "Brick Break",
+      "Substitute",
+      "Knock Off",
+      "Nothing"
+    ]
+  },
+  "Roselia": {
+    "counters": [
+      "Salamence",
+      "Dugtrio",
+      "Celebi",
+      "Metagross",
+      "Aerodactyl"
+    ],
+    "partners": [
+      "Tyranitar",
+      "Gengar",
+      "Metagross",
+      "Aerodactyl",
+      "Vaporeon",
+      "Starmie",
+      "Arcanine",
+      "Swampert",
+      "Zapdos",
+      "Snorlax"
+    ],
+    "moves": [
+      "Spikes",
+      "Leech Seed",
+      "Giga Drain",
+      "Stun Spore",
+      "Aromatherapy",
+      "Protect",
+      "Hidden Power Grass",
+      "Sunny Day",
+      "Hidden Power Fire",
+      "Grass Whistle"
+    ]
+  },
+  "Omastar": {
+    "counters": [
+      "Suicune",
+      "Zapdos",
+      "Blissey"
+    ],
+    "partners": [
+      "Kingdra",
+      "Dugtrio",
+      "Ludicolo",
+      "Zapdos",
+      "Jirachi",
+      "Celebi",
+      "Blissey",
+      "Claydol",
+      "Snorlax",
+      "Metagross"
+    ],
+    "moves": [
+      "Spikes",
+      "Rain Dance",
+      "Hydro Pump",
+      "Ice Beam",
+      "Surf",
+      "Thief",
+      "Protect",
+      "Hidden Power Grass",
+      "Toxic",
+      "Withdraw"
+    ]
+  },
+  "Solrock": {
+    "counters": [
+      "Medicham",
+      "Metagross",
+      "Starmie",
+      "Skarmory"
+    ],
+    "partners": [
+      "Metagross",
+      "Snorlax",
+      "Magneton",
+      "Salamence",
+      "Swampert",
+      "Raikou",
+      "Ninjask",
+      "Tyranitar",
+      "Octillery",
+      "Zapdos"
+    ],
+    "moves": [
+      "Explosion",
+      "Rock Slide",
+      "Earthquake",
+      "Hidden Power Fighting",
+      "Baton Pass",
+      "Shadow Ball",
+      "Substitute",
+      "Nothing"
+    ]
+  },
+  "Electrode": {
+    "counters": [
+      "Metagross"
+    ],
+    "partners": [
+      "Dugtrio",
+      "Metagross",
+      "Kingdra",
+      "Snorlax",
+      "Zapdos",
+      "Ludicolo",
+      "Heracross",
+      "Gengar",
+      "Tyranitar",
+      "Suicune"
+    ],
+    "moves": [
+      "Thunderbolt",
+      "Explosion",
+      "Hidden Power Grass",
+      "Thunder Wave",
+      "Rain Dance",
+      "Substitute",
+      "Taunt",
+      "Thunder",
+      "Hidden Power Ice",
+      "Nothing"
+    ]
+  },
+  "Aggron": {
+    "counters": [
+      "Swampert",
+      "Milotic",
+      "Suicune",
+      "Metagross",
+      "Starmie",
+      "Claydol"
+    ],
+    "partners": [
+      "Zapdos",
+      "Tyranitar",
+      "Aerodactyl",
+      "Skarmory",
+      "Celebi",
+      "Claydol",
+      "Vaporeon",
+      "Gengar",
+      "Swampert",
+      "Metagross"
+    ],
+    "moves": [
+      "Rock Slide",
+      "Focus Punch",
+      "Thunder Wave",
+      "Double-Edge",
+      "Substitute",
+      "Earthquake",
+      "Hidden Power Bug",
+      "Brick Break",
+      "Fire Blast",
+      "Surf"
+    ]
+  },
+  "Ursaring": {
+    "counters": [],
+    "partners": [
+      "Zapdos",
+      "Metagross",
+      "Suicune",
+      "Starmie",
+      "Machamp",
+      "Jirachi",
+      "Gyarados",
+      "Snorlax",
+      "Salamence",
+      "Magneton"
+    ],
+    "moves": [
+      "Earthquake",
+      "Return",
+      "Swords Dance",
+      "Rock Slide",
+      "Hidden Power Ghost",
+      "Focus Punch",
+      "Brick Break",
+      "Double-Edge",
+      "Taunt",
+      "Facade"
+    ]
+  },
+  "Swellow": {
+    "counters": [
+      "Skarmory",
+      "Aerodactyl",
+      "Metagross",
+      "Jolteon"
+    ],
+    "partners": [
+      "Suicune",
+      "Jolteon",
+      "Magneton",
+      "Metagross",
+      "Swampert",
+      "Heracross",
+      "Tyranitar",
+      "Arcanine",
+      "Zapdos",
+      "Snorlax"
+    ],
+    "moves": [
+      "Endeavor",
+      "Substitute",
+      "Baton Pass",
+      "Hidden Power Fighting",
+      "Aerial Ace",
+      "Return",
+      "Facade",
+      "Hidden Power Ghost",
+      "Quick Attack",
+      "Double-Edge"
+    ]
+  },
+  "Nidoking": {
+    "counters": [
+      "Suicune",
+      "Milotic",
+      "Dugtrio",
+      "Gengar",
+      "Starmie",
+      "Swampert"
+    ],
+    "partners": [
+      "Tyranitar",
+      "Metagross",
+      "Aerodactyl",
+      "Zapdos",
+      "Cloyster",
+      "Charizard",
+      "Suicune",
+      "Starmie",
+      "Breloom",
+      "Celebi"
+    ],
+    "moves": [
+      "Earthquake",
+      "Ice Beam",
+      "Fire Blast",
+      "Hidden Power Grass",
+      "Sludge Bomb",
+      "Megahorn",
+      "Thunderbolt",
+      "Endure",
+      "Focus Punch",
+      "Shadow Ball"
+    ]
+  },
+  "Lunatone": {
+    "counters": [
+      "Suicune",
+      "Metagross",
+      "Tyranitar"
+    ],
+    "partners": [
+      "Zapdos",
+      "Hariyama",
+      "Vaporeon",
+      "Celebi",
+      "Metagross",
+      "Starmie",
+      "Tyranitar",
+      "Suicune",
+      "Sceptile",
+      "Forretress"
+    ],
+    "moves": [
+      "Baton Pass",
+      "Ice Beam",
+      "Substitute",
+      "Calm Mind",
+      "Hypnosis",
+      "Psychic",
+      "Nothing"
+    ]
+  },
+  "Jumpluff": {
+    "counters": [],
+    "partners": [
+      "Blissey",
+      "Skarmory",
+      "Swampert",
+      "Tyranitar",
+      "Dugtrio",
+      "Gengar",
+      "Forretress",
+      "Starmie",
+      "Magneton",
+      "Claydol"
+    ],
+    "moves": [
+      "Leech Seed",
+      "Sleep Powder",
+      "Encore",
+      "Substitute",
+      "Nothing"
+    ]
+  },
+  "Golduck": {
+    "counters": [
+      "Snorlax",
+      "Blissey",
+      "Zapdos"
+    ],
+    "partners": [
+      "Tyranitar",
+      "Gengar",
+      "Glalie",
+      "Regirock",
+      "Dugtrio",
+      "Celebi",
+      "Aerodactyl",
+      "Lanturn",
+      "Jolteon",
+      "Metagross"
+    ],
+    "moves": [
+      "Ice Beam",
+      "Surf",
+      "Calm Mind",
+      "Protect",
+      "Endure",
+      "Toxic",
+      "Hydro Pump",
+      "Nothing"
+    ]
+  },
+  "Banette": {
+    "counters": [
+      "Zapdos"
+    ],
+    "partners": [
+      "Tyranitar",
+      "Zapdos",
+      "Swampert",
+      "Skarmory",
+      "Jolteon",
+      "Salamence",
+      "Blissey",
+      "Forretress",
+      "Starmie",
+      "Flygon"
+    ],
+    "moves": [
+      "Shadow Ball",
+      "Hidden Power Fighting",
+      "Will-O-Wisp",
+      "Taunt",
+      "Knock Off",
+      "Destiny Bond",
+      "Curse",
+      "Protect",
+      "Thunder Wave",
+      "Toxic"
+    ]
+  },
+  "Lapras": {
+    "counters": [
+      "Metagross"
+    ],
+    "partners": [
+      "Snorlax",
+      "Metagross",
+      "Starmie",
+      "Breloom",
+      "Ludicolo",
+      "Tyranitar",
+      "Gengar",
+      "Skarmory",
+      "Steelix",
+      "Blissey"
+    ],
+    "moves": [
+      "Ice Beam",
+      "Perish Song",
+      "Heal Bell",
+      "Toxic",
+      "Thunderbolt",
+      "Surf",
+      "Hydro Pump",
+      "Thunder",
+      "Rain Dance",
+      "Roar"
+    ]
+  },
+  "Dodrio": {
+    "counters": [
+      "Aerodactyl",
+      "Jirachi"
+    ],
+    "partners": [
+      "Magneton",
+      "Snorlax",
+      "Metagross",
+      "Swampert",
+      "Suicune",
+      "Dugtrio",
+      "Tauros",
+      "Celebi",
+      "Milotic",
+      "Tyranitar"
+    ],
+    "moves": [
+      "Drill Peck",
+      "Return",
+      "Quick Attack",
+      "Hidden Power Fighting",
+      "Hidden Power Ground",
+      "Baton Pass",
+      "Double-Edge",
+      "Substitute",
+      "Flail",
+      "Agility"
+    ]
+  },
+  "Espeon": {
+    "counters": [
+      "Tyranitar",
+      "Aerodactyl",
+      "Snorlax",
+      "Metagross"
+    ],
+    "partners": [
+      "Zapdos",
+      "Swampert",
+      "Dugtrio",
+      "Metagross",
+      "Gengar",
+      "Suicune",
+      "Salamence",
+      "Starmie",
+      "Jolteon",
+      "Tyranitar"
+    ],
+    "moves": [
+      "Psychic",
+      "Calm Mind",
+      "Baton Pass",
+      "Substitute",
+      "Hidden Power Fire",
+      "Hidden Power Ice",
+      "Toxic",
+      "Wish",
+      "Hidden Power Electric",
+      "Morning Sun"
+    ]
+  },
+  "Mantine": {
+    "counters": [
+      "Snorlax",
+      "Gengar",
+      "Zapdos"
+    ],
+    "partners": [
+      "Tyranitar",
+      "Forretress",
+      "Flygon",
+      "Skarmory",
+      "Dugtrio",
+      "Starmie",
+      "Jolteon",
+      "Gengar",
+      "Zapdos",
+      "Umbreon"
+    ],
+    "moves": [
+      "Surf",
+      "Haze",
+      "Toxic",
+      "Rest",
+      "Ice Beam",
+      "Hidden Power Grass",
+      "Substitute",
+      "Rain Dance",
+      "Nothing"
+    ]
+  },
+  "Linoone": {
+    "counters": [],
+    "partners": [
+      "Magneton",
+      "Snorlax",
+      "Metagross",
+      "Gardevoir",
+      "Heracross",
+      "Gengar",
+      "Salamence",
+      "Aerodactyl",
+      "Slowbro",
+      "Starmie"
+    ],
+    "moves": [
+      "Extreme Speed",
+      "Belly Drum",
+      "Shadow Ball",
+      "Hidden Power Ground",
+      "Roar",
+      "Hidden Power Fighting",
+      "Substitute",
+      "Nothing"
+    ]
+  },
+  "Typhlosion": {
+    "counters": [
+      "Aerodactyl",
+      "Starmie",
+      "Tyranitar"
+    ],
+    "partners": [
+      "Dugtrio",
+      "Starmie",
+      "Swampert",
+      "Flygon",
+      "Tyranitar",
+      "Jolteon",
+      "Mantine",
+      "Blissey",
+      "Regice",
+      "Metagross"
+    ],
+    "moves": [
+      "Thunder Punch",
+      "Flamethrower",
+      "Hidden Power Ice",
+      "Fire Blast",
+      "Substitute",
+      "Hidden Power Grass",
+      "Focus Punch",
+      "Overheat",
+      "Sunny Day",
+      "Brick Break"
+    ]
+  },
+  "Hitmontop": {
+    "counters": [
+      "Celebi",
+      "Salamence",
+      "Skarmory"
+    ],
+    "partners": [
+      "Skarmory",
+      "Metagross",
+      "Tyranitar",
+      "Blissey",
+      "Zapdos",
+      "Starmie",
+      "Jolteon",
+      "Gengar",
+      "Swampert",
+      "Suicune"
+    ],
+    "moves": [
+      "Mach Punch",
+      "Rapid Spin",
+      "Rock Slide",
+      "Hidden Power Ghost",
+      "High Jump Kick",
+      "Brick Break",
+      "Revenge",
+      "Bulk Up",
+      "Earthquake",
+      "Toxic"
+    ]
+  },
+  "Furret": {
+    "counters": [
+      "Metagross"
+    ],
+    "partners": [
+      "Magneton",
+      "Salamence",
+      "Heracross",
+      "Snorlax",
+      "Suicune",
+      "Swampert",
+      "Celebi",
+      "Blissey",
+      "Skarmory",
+      "Starmie"
+    ],
+    "moves": [
+      "Trick",
+      "Brick Break",
+      "Shadow Ball",
+      "Return",
+      "Double-Edge",
+      "Nothing"
+    ]
+  },
+  "Crobat": {
+    "counters": [],
+    "partners": [
+      "Magneton",
+      "Snorlax",
+      "Claydol",
+      "Milotic",
+      "Dugtrio",
+      "Suicune",
+      "Medicham",
+      "Blissey",
+      "Swampert",
+      "Metagross"
+    ],
+    "moves": [
+      "Sludge Bomb",
+      "Shadow Ball",
+      "Aerial Ace",
+      "Hidden Power Ground",
+      "Hidden Power Fighting",
+      "Hidden Power Flying",
+      "Substitute",
+      "Confuse Ray",
+      "Toxic",
+      "Whirlwind"
+    ]
+  },
+  "Gorebyss": {
+    "counters": [],
+    "partners": [
+      "Ludicolo",
+      "Dugtrio",
+      "Kingdra",
+      "Poliwrath",
+      "Zapdos",
+      "Electrode",
+      "Jolteon",
+      "Marowak",
+      "Magneton",
+      "Tyranitar"
+    ],
+    "moves": [
+      "Rain Dance",
+      "Ice Beam",
+      "Surf",
+      "Baton Pass",
+      "Hydro Pump",
+      "Hidden Power Grass",
+      "Agility",
+      "Hidden Power Electric",
+      "Blizzard",
+      "Nothing"
+    ]
+  },
+  "Electabuzz": {
+    "counters": [
+      "Snorlax",
+      "Aerodactyl"
+    ],
+    "partners": [
+      "Tyranitar",
+      "Forretress",
+      "Salamence",
+      "Dusclops",
+      "Aerodactyl",
+      "Exeggutor",
+      "Poliwrath",
+      "Skarmory",
+      "Donphan",
+      "Swampert"
+    ],
+    "moves": [
+      "Ice Punch",
+      "Thunderbolt",
+      "Hidden Power Grass",
+      "Cross Chop",
+      "Fire Punch",
+      "Focus Punch",
+      "Thunder",
+      "Brick Break",
+      "Nothing"
+    ]
+  },
+  "Shiftry": {
+    "counters": [],
+    "partners": [
+      "Dugtrio",
+      "Gyarados",
+      "Gengar",
+      "Magneton",
+      "Glalie",
+      "Snorlax",
+      "Metagross",
+      "Houndoom",
+      "Exeggutor",
+      "Moltres"
+    ],
+    "moves": [
+      "Explosion",
+      "Shadow Ball",
+      "Brick Break",
+      "Quick Attack",
+      "Sunny Day",
+      "Solar Beam",
+      "Hidden Power Fire",
+      "Hidden Power Dark",
+      "Hidden Power Bug",
+      "Nothing"
+    ]
+  },
+  "Slowbro": {
+    "counters": [
+      "Celebi",
+      "Blissey"
+    ],
+    "partners": [
+      "Snorlax",
+      "Magneton",
+      "Salamence",
+      "Gengar",
+      "Aerodactyl",
+      "Celebi",
+      "Forretress",
+      "Tyranitar",
+      "Linoone",
+      "Zapdos"
+    ],
+    "moves": [
+      "Surf",
+      "Ice Beam",
+      "Fire Blast",
+      "Thunder Wave",
+      "Calm Mind",
+      "Rest",
+      "Psychic",
+      "Hidden Power Grass",
+      "Focus Punch",
+      "Flamethrower"
+    ]
+  },
+  "Hypno": {
+    "counters": [],
+    "partners": [
+      "Marowak",
+      "Zapdos",
+      "Suicune",
+      "Smeargle",
+      "Heracross",
+      "Charizard",
+      "Snorlax",
+      "Ludicolo",
+      "Kingdra",
+      "Pikachu"
+    ],
+    "moves": [
+      "Baton Pass",
+      "Taunt",
+      "Thunder Wave",
+      "Brick Break",
+      "Hypnosis",
+      "Seismic Toss",
+      "Calm Mind",
+      "Shadow Ball",
+      "Belly Drum",
+      "Substitute"
+    ]
+  },
+  "Zangoose": {
+    "counters": [],
+    "partners": [
+      "Magneton",
+      "Dugtrio",
+      "Metagross",
+      "Swampert",
+      "Zapdos",
+      "Claydol",
+      "Registeel",
+      "Salamence",
+      "Kingdra",
+      "Smeargle"
+    ],
+    "moves": [
+      "Shadow Ball",
+      "Swords Dance",
+      "Flail",
+      "Endure",
+      "Return",
+      "Substitute",
+      "Brick Break",
+      "Quick Attack",
+      "Double-Edge",
+      "Taunt"
+    ]
+  },
+  "Scyther": {
+    "counters": [],
+    "partners": [
+      "Magneton",
+      "Gyarados",
+      "Swampert",
+      "Flygon",
+      "Tyranitar",
+      "Umbreon",
+      "Metagross",
+      "Salamence",
+      "Snorlax",
+      "Suicune"
+    ],
+    "moves": [
+      "Swords Dance",
+      "Baton Pass",
+      "Silver Wind",
+      "Hidden Power Rock",
+      "Hidden Power Bug",
+      "Aerial Ace",
+      "Substitute",
+      "Reversal",
+      "Nothing"
+    ]
+  },
+  "Octillery": {
+    "counters": [
+      "Blissey",
+      "Zapdos",
+      "Snorlax"
+    ],
+    "partners": [
+      "Ninjask",
+      "Marowak",
+      "Magneton",
+      "Raikou",
+      "Solrock",
+      "Exeggutor",
+      "Metagross",
+      "Jirachi",
+      "Regirock",
+      "Salamence"
+    ],
+    "moves": [
+      "Surf",
+      "Ice Beam",
+      "Fire Blast",
+      "Hidden Power Grass",
+      "Hidden Power Electric",
+      "Blizzard",
+      "Flamethrower",
+      "Toxic",
+      "Thunder Wave",
+      "Hidden Power Fighting"
+    ]
+  },
+  "Shedinja": {
+    "counters": [
+      "Salamence",
+      "Snorlax"
+    ],
+    "partners": [
+      "Dugtrio",
+      "Claydol",
+      "Magneton",
+      "Snorlax",
+      "Skarmory",
+      "Suicune",
+      "Kingdra",
+      "Starmie",
+      "Raikou",
+      "Gyarados"
+    ],
+    "moves": [
+      "Shadow Ball",
+      "Toxic",
+      "Protect",
+      "Baton Pass",
+      "Hidden Power Fighting",
+      "Swords Dance",
+      "Hidden Power Bug",
+      "Silver Wind",
+      "Sleep Talk",
+      "Aerial Ace"
+    ]
+  },
+  "Politoed": {
+    "counters": [
+      "Zapdos"
+    ],
+    "partners": [
+      "Skarmory",
+      "Tyranitar",
+      "Metagross",
+      "Jolteon",
+      "Gengar",
+      "Heracross",
+      "Celebi",
+      "Raikou",
+      "Donphan",
+      "Zapdos"
+    ],
+    "moves": [
+      "Ice Beam",
+      "Thief",
+      "Hypnosis",
+      "Surf",
+      "Hydro Pump",
+      "Perish Song",
+      "Protect",
+      "Toxic",
+      "Nothing"
+    ]
+  },
+  "Entei": {
+    "counters": [
+      "Aerodactyl"
+    ],
+    "partners": [
+      "Suicune",
+      "Raikou",
+      "Metagross",
+      "Snorlax",
+      "Zapdos",
+      "Porygon2",
+      "Dugtrio",
+      "Celebi",
+      "Salamence",
+      "Tyranitar"
+    ],
+    "moves": [
+      "Flamethrower",
+      "Calm Mind",
+      "Substitute",
+      "Fire Blast",
+      "Hidden Power Grass",
+      "Toxic",
+      "Sunny Day",
+      "Hidden Power Fighting",
+      "Solar Beam",
+      "Hidden Power Ice"
+    ]
+  },
+  "Azumarill": {
+    "counters": [],
+    "partners": [
+      "Zapdos",
+      "Blissey",
+      "Aerodactyl",
+      "Skarmory",
+      "Flygon",
+      "Hariyama",
+      "Celebi",
+      "Vaporeon",
+      "Lunatone",
+      "Breloom"
+    ],
+    "moves": [
+      "Focus Punch",
+      "Brick Break",
+      "Hidden Power Ghost",
+      "Substitute",
+      "Belly Drum",
+      "Return",
+      "Hidden Power Ground",
+      "Hidden Power Rock",
+      "Frustration",
+      "Iron Tail"
+    ]
+  },
+  "Butterfree": {
+    "counters": [
+      "Zapdos"
+    ],
+    "partners": [
+      "Skarmory",
+      "Gengar",
+      "Tyranitar",
+      "Metagross",
+      "Aerodactyl",
+      "Jolteon",
+      "Suicune",
+      "Registeel",
+      "Claydol",
+      "Heracross"
+    ],
+    "moves": [
+      "Sleep Powder",
+      "Stun Spore",
+      "Thief",
+      "Whirlwind",
+      "Nightmare",
+      "Giga Drain",
+      "Rain Dance",
+      "Nothing"
+    ]
+  },
+  "Gligar": {
+    "counters": [
+      "Suicune",
+      "Swampert",
+      "Skarmory"
+    ],
+    "partners": [
+      "Tyranitar",
+      "Blissey",
+      "Zapdos",
+      "Magneton",
+      "Forretress",
+      "Snorlax",
+      "Swampert",
+      "Metagross",
+      "Skarmory",
+      "Venusaur"
+    ],
+    "moves": [
+      "Earthquake",
+      "Hidden Power Flying",
+      "Swords Dance",
+      "Toxic",
+      "Protect",
+      "Rock Slide",
+      "Endure",
+      "Counter",
+      "Facade",
+      "Thief"
+    ]
+  },
+  "Kingler": {
+    "counters": [
+      "Zapdos",
+      "Celebi"
+    ],
+    "partners": [
+      "Zapdos",
+      "Aerodactyl",
+      "Blissey",
+      "Swampert",
+      "Forretress",
+      "Celebi",
+      "Magneton",
+      "Scizor",
+      "Tyranitar",
+      "Gengar"
+    ],
+    "moves": [
+      "Knock Off",
+      "Hidden Power Fighting",
+      "Rest",
+      "Harden",
+      "Swords Dance",
+      "Substitute",
+      "Toxic",
+      "Hidden Power Ground",
+      "Return",
+      "Hidden Power Ghost"
+    ]
+  },
+  "Yanma": {
+    "counters": [],
+    "partners": [
+      "Dugtrio",
+      "Metagross",
+      "Zapdos",
+      "Kingdra",
+      "Suicune",
+      "Suicune"
+    ],
+    "moves": [
+      "Substitute",
+      "Reversal",
+      "Hypnosis",
+      "Hidden Power Flying",
+      "Hidden Power Rock",
+      "Nothing"
+    ]
+  },
+  "Kangaskhan": {
+    "counters": [],
+    "partners": [
+      "Skarmory",
+      "Claydol",
+      "Celebi",
+      "Suicune",
+      "Tyranitar",
+      "Starmie",
+      "Aerodactyl",
+      "Hariyama",
+      "Salamence",
+      "Dugtrio"
+    ],
+    "moves": [
+      "Body Slam",
+      "Shadow Ball",
+      "Wish",
+      "Rest",
+      "Earthquake",
+      "Focus Punch",
+      "Yawn",
+      "Brick Break",
+      "Roar",
+      "Double-Edge"
+    ]
+  },
+  "Chansey": {
+    "counters": [],
+    "partners": [
+      "Blissey",
+      "Forretress",
+      "Tyranitar",
+      "Swampert",
+      "Celebi",
+      "Raikou",
+      "Salamence",
+      "Donphan",
+      "Dusclops",
+      "Gyarados"
+    ],
+    "moves": [
+      "Soft-Boiled",
+      "Seismic Toss",
+      "Thunder Wave",
+      "Counter",
+      "Heal Bell",
+      "Toxic",
+      "Aromatherapy",
+      "Ice Beam",
+      "Thunderbolt",
+      "Nothing"
+    ]
+  },
+  "Altaria": {
+    "counters": [],
+    "partners": [
+      "Skarmory",
+      "Flygon",
+      "Zapdos",
+      "Metagross",
+      "Blissey",
+      "Swampert",
+      "Articuno",
+      "Magneton",
+      "Snorlax",
+      "Piloswine"
+    ],
+    "moves": [
+      "Rest",
+      "Heal Bell",
+      "Perish Song",
+      "Dragon Claw",
+      "Toxic",
+      "Dragon Dance",
+      "Fire Blast",
+      "Earthquake",
+      "Flamethrower",
+      "Ice Beam"
+    ]
+  },
+  "Muk": {
+    "counters": [],
+    "partners": [
+      "Metagross",
+      "Snorlax",
+      "Gengar",
+      "Suicune",
+      "Tyranitar",
+      "Wailord",
+      "Swampert",
+      "Flygon",
+      "Porygon2",
+      "Claydol"
+    ],
+    "moves": [
+      "Explosion",
+      "Sludge Bomb",
+      "Focus Punch",
+      "Substitute",
+      "Nothing",
+      "Curse",
+      "Brick Break",
+      "Rain Dance",
+      "Fire Blast",
+      "Hidden Power Ghost"
+    ]
+  },
+  "Tentacruel": {
+    "counters": [],
+    "partners": [
+      "Skarmory",
+      "Blissey",
+      "Gengar",
+      "Tyranitar",
+      "Swampert",
+      "Dugtrio",
+      "Salamence",
+      "Metagross",
+      "Kingdra",
+      "Ludicolo"
+    ],
+    "moves": [
+      "Rapid Spin",
+      "Hydro Pump",
+      "Ice Beam",
+      "Surf",
+      "Toxic",
+      "Giga Drain",
+      "Thief",
+      "Sludge Bomb",
+      "Swords Dance",
+      "Rain Dance"
+    ]
+  },
+  "Murkrow": {
+    "counters": [],
+    "partners": [
+      "Tyranitar",
+      "Jirachi",
+      "Skarmory",
+      "Starmie",
+      "Jolteon",
+      "Armaldo",
+      "Breloom",
+      "Zapdos",
+      "Magneton",
+      "Metagross"
+    ],
+    "moves": [
+      "Pursuit",
+      "Thunder Wave",
+      "Drill Peck",
+      "Perish Song",
+      "Thief",
+      "Hidden Power Flying",
+      "Hidden Power Grass",
+      "Taunt",
+      "Icy Wind",
+      "Haze"
+    ]
+  },
+  "Mawile": {
+    "counters": [],
+    "partners": [
+      "Zapdos",
+      "Smeargle",
+      "Celebi",
+      "Hariyama",
+      "Vaporeon",
+      "Salamence",
+      "Suicune",
+      "Charizard",
+      "Tyranitar",
+      "Magneton"
+    ],
+    "moves": [
+      "Baton Pass",
+      "Substitute",
+      "Taunt",
+      "Mud-Slap",
+      "Swords Dance",
+      "Hidden Power Steel",
+      "Ancient Power",
+      "Brick Break",
+      "Sing",
+      "Protect"
+    ]
+  },
+  "Hitmonlee": {
+    "counters": [],
+    "partners": [
+      "Magneton",
+      "Gyarados",
+      "Dugtrio",
+      "Snorlax",
+      "Metagross",
+      "Houndoom",
+      "Aerodactyl",
+      "Heracross",
+      "Starmie",
+      "Kabutops"
+    ],
+    "moves": [
+      "Rock Slide",
+      "Brick Break",
+      "Rapid Spin",
+      "Bulk Up",
+      "Mach Punch",
+      "Reversal",
+      "Focus Punch",
+      "Endure",
+      "Hidden Power Ghost",
+      "High Jump Kick"
+    ]
+  },
+  "Grumpig": {
+    "counters": [
+      "Tyranitar"
+    ],
+    "partners": [
+      "Jolteon",
+      "Salamence",
+      "Starmie",
+      "Snorlax",
+      "Forretress",
+      "Houndoom",
+      "Breloom",
+      "Metagross",
+      "Medicham",
+      "Zapdos"
+    ],
+    "moves": [
+      "Trick",
+      "Fire Punch",
+      "Psychic",
+      "Calm Mind",
+      "Icy Wind",
+      "Seismic Toss",
+      "Rest",
+      "Torment",
+      "Ice Punch",
+      "Hidden Power Grass"
+    ]
+  },
+  "Slowking": {
+    "counters": [],
+    "partners": [
+      "Tyranitar",
+      "Swellow",
+      "Jirachi",
+      "Zapdos",
+      "Quagsire",
+      "Swampert",
+      "Dragonite",
+      "Ninetales",
+      "Celebi",
+      "Metagross"
+    ],
+    "moves": [
+      "Psychic",
+      "Surf",
+      "Fire Blast",
+      "Ice Beam",
+      "Calm Mind",
+      "Flamethrower",
+      "Focus Punch",
+      "Rest",
+      "Nothing"
+    ]
+  },
+  "Ninetales": {
+    "counters": [],
+    "partners": [
+      "Forretress",
+      "Dugtrio",
+      "Blissey",
+      "Jirachi",
+      "Gengar",
+      "Claydol",
+      "Swampert",
+      "Salamence",
+      "Dragonite",
+      "Slowking"
+    ],
+    "moves": [
+      "Will-O-Wisp",
+      "Roar",
+      "Hypnosis",
+      "Grudge",
+      "Flamethrower",
+      "Hidden Power Grass",
+      "Overheat",
+      "Fire Blast",
+      "Confuse Ray",
+      "Sunny Day"
+    ]
+  },
+  "Clefable": {
+    "counters": [],
+    "partners": [
+      "Magneton",
+      "Dugtrio",
+      "Starmie",
+      "Gardevoir",
+      "Kirlia",
+      "Blissey",
+      "Vaporeon",
+      "Typhlosion",
+      "Snorlax",
+      "Smeargle"
+    ],
+    "moves": [
+      "Thunder Wave",
+      "Soft-Boiled",
+      "Seismic Toss",
+      "Cosmic Power",
+      "Encore",
+      "Shadow Ball",
+      "Thunderbolt",
+      "Wish",
+      "Ice Beam",
+      "Calm Mind"
+    ]
+  },
+  "Golem": {
+    "counters": [],
+    "partners": [
+      "Metagross",
+      "Snorlax",
+      "Magneton",
+      "Gengar",
+      "Dugtrio",
+      "Celebi",
+      "Gyarados",
+      "Weezing",
+      "Claydol",
+      "Starmie"
+    ],
+    "moves": [
+      "Explosion",
+      "Earthquake",
+      "Rock Slide",
+      "Rock Blast",
+      "Double-Edge",
+      "Counter",
+      "Hidden Power Bug",
+      "Toxic",
+      "Fire Blast",
+      "Sleep Talk"
+    ]
+  },
+  "Raichu": {
+    "counters": [],
+    "partners": [
+      "Metagross",
+      "Dugtrio",
+      "Ludicolo",
+      "Kingdra",
+      "Heracross",
+      "Charizard",
+      "Snorlax",
+      "Celebi",
+      "Aerodactyl",
+      "Zapdos"
+    ],
+    "moves": [
+      "Encore",
+      "Focus Punch",
+      "Volt Tackle",
+      "Substitute",
+      "Thunderbolt",
+      "Hidden Power Grass",
+      "Light Screen",
+      "Toxic",
+      "Surf",
+      "Thunder Wave"
+    ]
+  },
+  "Trapinch": {
+    "counters": [
+      "Exeggutor",
+      "Breloom",
+      "Jirachi",
+      "Blissey",
+      "Tyranitar"
+    ],
+    "partners": [
+      "Dugtrio",
+      "Zapdos",
+      "Snorlax",
+      "Suicune",
+      "Blaziken",
+      "Magneton",
+      "Diglett",
+      "Metagross",
+      "Forretress",
+      "Blissey"
+    ],
+    "moves": [
+      "Earthquake",
+      "Rock Slide",
+      "Quick Attack",
+      "Hidden Power Bug",
+      "Sand Attack",
+      "Rest",
+      "Secret Power",
+      "Toxic",
+      "Substitute",
+      "Hyper Beam"
+    ]
+  },
+  "Ampharos": {
+    "counters": [],
+    "partners": [
+      "Tyranitar",
+      "Swampert",
+      "Moltres",
+      "Venusaur",
+      "Omastar",
+      "Suicune",
+      "Umbreon",
+      "Blissey",
+      "Medicham",
+      "Linoone"
+    ],
+    "moves": [
+      "Thunderbolt",
+      "Heal Bell",
+      "Thunder Wave",
+      "Hidden Power Ice",
+      "Fire Punch",
+      "Hidden Power Grass",
+      "Thunder",
+      "Counter",
+      "Rain Dance",
+      "Focus Punch"
+    ]
+  },
+  "Meganium": {
+    "counters": [],
+    "partners": [
+      "Gengar",
+      "Zapdos",
+      "Flygon",
+      "Umbreon",
+      "Blissey",
+      "Cradily",
+      "Dugtrio",
+      "Cloyster",
+      "Crobat",
+      "Miltank"
+    ],
+    "moves": [
+      "Leech Seed",
+      "Giga Drain",
+      "Earthquake",
+      "Ingrain",
+      "Reflect",
+      "Body Slam",
+      "Light Screen",
+      "Toxic",
+      "Counter",
+      "Synthesis"
+    ]
+  },
+  "Vileplume": {
+    "counters": [],
+    "partners": [
+      "Zapdos",
+      "Flygon",
+      "Metagross",
+      "Regirock",
+      "Snorlax",
+      "Dugtrio",
+      "Forretress",
+      "Charizard",
+      "Weezing",
+      "Salamence"
+    ],
+    "moves": [
+      "Sleep Powder",
+      "Leech Seed",
+      "Aromatherapy",
+      "Giga Drain",
+      "Sludge Bomb",
+      "Solar Beam",
+      "Sunny Day",
+      "Moonlight",
+      "Hidden Power Ice",
+      "Protect"
+    ]
+  },
+  "Nidoqueen": {
+    "counters": [],
+    "partners": [
+      "Tyranitar",
+      "Zapdos",
+      "Forretress",
+      "Snorlax",
+      "Banette",
+      "Skarmory",
+      "Claydol",
+      "Blissey",
+      "Starmie",
+      "Celebi"
+    ],
+    "moves": [
+      "Earthquake",
+      "Superpower",
+      "Sludge Bomb",
+      "Taunt",
+      "Fire Blast",
+      "Ice Beam",
+      "Counter",
+      "Toxic",
+      "Beat Up",
+      "Roar"
+    ]
+  },
+  "Magmar": {
+    "counters": [],
+    "partners": [
+      "Blissey",
+      "Skarmory",
+      "Starmie",
+      "Gengar",
+      "Aerodactyl",
+      "Salamence",
+      "Claydol",
+      "Forretress",
+      "Dusclops",
+      "Porygon2"
+    ],
+    "moves": [
+      "Hidden Power Grass",
+      "Fire Blast",
+      "Substitute",
+      "Focus Punch",
+      "Cross Chop",
+      "Thunder Punch",
+      "Flamethrower",
+      "Psychic",
+      "Hidden Power Ice",
+      "Barrier"
+    ]
+  },
+  "Rapidash": {
+    "counters": [],
+    "partners": [
+      "Suicune",
+      "Machamp",
+      "Ninjask",
+      "Jolteon",
+      "Gligar",
+      "Celebi",
+      "Ursaring",
+      "Snorlax",
+      "Steelix",
+      "Poliwrath"
+    ],
+    "moves": [
+      "Fire Blast",
+      "Baton Pass",
+      "Agility",
+      "Hidden Power Grass",
+      "Substitute",
+      "Sunny Day",
+      "Hypnosis",
+      "Solar Beam",
+      "Overheat",
+      "Flamethrower"
+    ]
+  },
+  "Flareon": {
+    "counters": [],
+    "partners": [
+      "Swampert",
+      "Forretress",
+      "Dugtrio",
+      "Tyranitar",
+      "Snorlax",
+      "Jolteon",
+      "Breloom",
+      "Starmie",
+      "Vaporeon",
+      "Celebi"
+    ],
+    "moves": [
+      "Shadow Ball",
+      "Wish",
+      "Toxic",
+      "Overheat",
+      "Flamethrower",
+      "Protect",
+      "Hidden Power Fighting",
+      "Quick Attack",
+      "Baton Pass",
+      "Fire Blast"
+    ]
+  },
+  "Walrein": {
+    "counters": [],
+    "partners": [
+      "Celebi",
+      "Tyranitar",
+      "Zapdos",
+      "Metagross",
+      "Dragonite",
+      "Flygon",
+      "Skarmory",
+      "Claydol",
+      "Salamence",
+      "Forretress"
+    ],
+    "moves": [
+      "Ice Beam",
+      "Surf",
+      "Encore",
+      "Toxic",
+      "Yawn",
+      "Substitute",
+      "Icy Wind",
+      "Protect",
+      "Earthquake",
+      "Rest"
+    ]
+  },
+  "Primeape": {
+    "counters": [],
+    "partners": [
+      "Charizard",
+      "Metagross",
+      "Zapdos",
+      "Snorlax",
+      "Swampert",
+      "Suicune",
+      "Starmie",
+      "Nidoking",
+      "Jolteon",
+      "Aerodactyl"
+    ],
+    "moves": [
+      "Rock Slide",
+      "Earthquake",
+      "Substitute",
+      "Focus Punch",
+      "Cross Chop",
+      "Hidden Power Ghost",
+      "Bulk Up",
+      "Brick Break",
+      "Focus Energy",
+      "Karate Chop"
+    ]
+  },
+  "Granbull": {
+    "counters": [],
+    "partners": [
+      "Jolteon",
+      "Dugtrio",
+      "Suicune",
+      "Arcanine",
+      "Alakazam",
+      "Smeargle",
+      "Sceptile",
+      "Blastoise",
+      "Umbreon",
+      "Starmie"
+    ],
+    "moves": [
+      "Shadow Ball",
+      "Brick Break",
+      "Return",
+      "Earthquake",
+      "Thunder Wave",
+      "Body Slam",
+      "Focus Punch",
+      "Bulk Up",
+      "Double-Edge",
+      "Heal Bell"
+    ]
+  },
+  "Torkoal": {
+    "counters": [],
+    "partners": [
+      "Metagross",
+      "Salamence",
+      "Tyranitar",
+      "Suicune",
+      "Regice",
+      "Sceptile",
+      "Glalie",
+      "Swellow",
+      "Pikachu",
+      "Gardevoir"
+    ],
+    "moves": [
+      "Explosion",
+      "Overheat",
+      "Curse",
+      "Hidden Power Fighting",
+      "Fire Blast",
+      "Flamethrower",
+      "Eruption",
+      "Body Slam",
+      "Heat Wave",
+      "Hidden Power Grass"
+    ]
+  },
+  "Xatu": {
+    "counters": [],
+    "partners": [
+      "Blissey",
+      "Starmie",
+      "Dugtrio",
+      "Magneton",
+      "Kabutops",
+      "Tyranitar",
+      "Steelix",
+      "Lapras",
+      "Forretress",
+      "Claydol"
+    ],
+    "moves": [
+      "Thunder Wave",
+      "Substitute",
+      "Giga Drain",
+      "Rest",
+      "Hidden Power Ice",
+      "Psychic",
+      "Calm Mind",
+      "Reflect",
+      "Baton Pass",
+      "Night Shade"
+    ]
+  },
+  "Sharpedo": {
+    "counters": [],
+    "partners": [
+      "Snorlax",
+      "Aerodactyl",
+      "Celebi",
+      "Metagross",
+      "Claydol",
+      "Magneton",
+      "Skarmory",
+      "Blissey",
+      "Suicune",
+      "Milotic"
+    ],
+    "moves": [
+      "Hydro Pump",
+      "Double-Edge",
+      "Earthquake",
+      "Rain Dance",
+      "Hidden Power Bug",
+      "Ice Beam",
+      "Crunch",
+      "Substitute",
+      "Return",
+      "Taunt"
+    ]
+  },
+  "Kirlia": {
+    "counters": [],
+    "partners": [
+      "Starmie",
+      "Gardevoir",
+      "Dugtrio",
+      "Magneton",
+      "Clefable"
+    ],
+    "moves": [
+      "Psychic",
+      "Sunny Day",
+      "Thunder Wave",
+      "Memento",
+      "Nothing"
+    ]
+  },
+  "Absol": {
+    "counters": [],
+    "partners": [
+      "Salamence",
+      "Gardevoir",
+      "Gengar",
+      "Medicham",
+      "Starmie",
+      "Magneton",
+      "Swampert",
+      "Marowak",
+      "Slaking",
+      "Tauros"
+    ],
+    "moves": [
+      "Swords Dance",
+      "Shadow Ball",
+      "Hidden Power Fighting",
+      "Baton Pass",
+      "Double-Edge",
+      "Quick Attack",
+      "Thunder Wave",
+      "Wish",
+      "Taunt",
+      "Return"
+    ]
+  },
+  "Stantler": {
+    "counters": [],
+    "partners": [
+      "Lanturn",
+      "Roselia",
+      "Crobat",
+      "Starmie",
+      "Volbeat",
+      "Smeargle",
+      "Miltank",
+      "Armaldo",
+      "Aerodactyl",
+      "Donphan"
+    ],
+    "moves": [
+      "Confuse Ray",
+      "Stomp",
+      "Thunder Wave",
+      "Hidden Power Ghost",
+      "Substitute",
+      "Earthquake",
+      "Body Slam",
+      "Nothing"
+    ]
+  },
+  "Seaking": {
+    "counters": [],
+    "partners": [
+      "Wailord",
+      "Qwilfish",
+      "Pikachu",
+      "Kingdra",
+      "Omastar",
+      "Ludicolo",
+      "Golem",
+      "Venusaur",
+      "Venusaur"
+    ],
+    "moves": [
+      "Megahorn",
+      "Hydro Pump",
+      "Double-Edge",
+      "Hidden Power Fighting",
+      "Hidden Power Ghost",
+      "Fury Attack",
+      "Hyper Beam",
+      "Ice Beam",
+      "Hidden Power Dark",
+      "Nothing"
+    ]
+  },
+  "Victreebel": {
+    "counters": [],
+    "partners": [
+      "Salamence",
+      "Snorlax",
+      "Swampert",
+      "Magneton",
+      "Celebi",
+      "Charizard",
+      "Starmie",
+      "Houndoom",
+      "Primeape",
+      "Shiftry"
+    ],
+    "moves": [
+      "Sludge Bomb",
+      "Sleep Powder",
+      "Encore",
+      "Substitute",
+      "Solar Beam",
+      "Sunny Day",
+      "Hidden Power Fire",
+      "Giga Drain",
+      "Thief",
+      "Growth"
+    ]
+  },
+  "Pinsir": {
+    "counters": [],
+    "partners": [
+      "Scizor",
+      "Heracross",
+      "Armaldo",
+      "Forretress",
+      "Ninjask",
+      "Skarmory",
+      "Blissey",
+      "Metagross",
+      "Gorebyss",
+      "Electrode"
+    ],
+    "moves": [
+      "Rock Slide",
+      "Swords Dance",
+      "Hidden Power Bug",
+      "Brick Break",
+      "Earthquake",
+      "Substitute",
+      "Endure",
+      "Flail",
+      "Nothing"
+    ]
+  },
+  "Dunsparce": {
+    "counters": [],
+    "partners": [
+      "Jirachi",
+      "Blissey",
+      "Skarmory",
+      "Claydol",
+      "Zapdos",
+      "Gengar",
+      "Starmie",
+      "Jolteon",
+      "Celebi",
+      "Jynx"
+    ],
+    "moves": [
+      "Rock Slide",
+      "Headbutt",
+      "Body Slam",
+      "Substitute",
+      "Earthquake",
+      "Thunder Wave",
+      "Shadow Ball",
+      "Ancient Power",
+      "Curse",
+      "Rest"
+    ]
+  },
+  "Piloswine": {
+    "counters": [],
+    "partners": [
+      "Magneton",
+      "Articuno",
+      "Snorlax",
+      "Altaria",
+      "Swampert",
+      "Skarmory",
+      "Tyranitar",
+      "Zapdos",
+      "Celebi",
+      "Jynx"
+    ],
+    "moves": [
+      "Earthquake",
+      "Rock Slide",
+      "Hail",
+      "Toxic",
+      "Ice Beam",
+      "Blizzard",
+      "Rest",
+      "Roar",
+      "Substitute",
+      "Hidden Power Bug"
+    ]
+  },
+  "Kecleon": {
+    "counters": [],
+    "partners": [
+      "Charizard",
+      "Claydol",
+      "Tyranitar",
+      "Suicune",
+      "Metagross",
+      "Dugtrio",
+      "Salamence",
+      "Forretress",
+      "Gengar",
+      "Starmie"
+    ],
+    "moves": [
+      "Trick",
+      "Thunder Wave",
+      "Brick Break",
+      "Double-Edge",
+      "Shadow Ball",
+      "Focus Punch",
+      "Body Slam",
+      "Seismic Toss",
+      "Return",
+      "Skill Swap"
+    ]
+  },
+  "Crawdaunt": {
+    "counters": [],
+    "partners": [
+      "Zapdos",
+      "Machamp",
+      "Dugtrio",
+      "Aerodactyl",
+      "Metagross",
+      "Snorlax",
+      "Suicune",
+      "Tauros",
+      "Celebi",
+      "Sceptile"
+    ],
+    "moves": [
+      "Brick Break",
+      "Swords Dance",
+      "Crunch",
+      "Knock Off",
+      "Hidden Power Ghost",
+      "Taunt",
+      "Surf",
+      "Hidden Power Grass",
+      "Ice Beam",
+      "Protect"
+    ]
+  },
+  "Arbok": {
+    "counters": [],
+    "partners": [
+      "Ninjask",
+      "Raikou",
+      "Solrock",
+      "Octillery",
+      "Exeggutor",
+      "Gyarados",
+      "Salamence",
+      "Arcanine",
+      "Tauros",
+      "Seviper"
+    ],
+    "moves": [
+      "Sludge Bomb",
+      "Earthquake",
+      "Toxic",
+      "Snatch",
+      "Glare",
+      "Rock Slide",
+      "Substitute",
+      "Poison Fang",
+      "Nothing"
+    ]
+  },
+  "Sudowoodo": {
+    "counters": [],
+    "partners": [
+      "Metagross",
+      "Aerodactyl",
+      "Starmie",
+      "Celebi",
+      "Charizard",
+      "Dugtrio",
+      "Zapdos",
+      "Cloyster",
+      "Heracross",
+      "Exeggutor"
+    ],
+    "moves": [
+      "Double-Edge",
+      "Explosion",
+      "Hidden Power Rock",
+      "Focus Punch",
+      "Rock Slide",
+      "Nothing"
+    ]
+  },
+  "Tangela": {
+    "counters": [],
+    "partners": [
+      "Skarmory",
+      "Blissey",
+      "Metagross",
+      "Salamence",
+      "Starmie",
+      "Claydol",
+      "Houndoom",
+      "Milotic",
+      "Aerodactyl",
+      "Magneton"
+    ],
+    "moves": [
+      "Giga Drain",
+      "Sleep Powder",
+      "Leech Seed",
+      "Hidden Power Fire",
+      "Tickle",
+      "Sunny Day",
+      "Solar Beam",
+      "Protect",
+      "Morning Sun",
+      "Nothing"
+    ]
+  },
+  "Shuckle": {
+    "counters": [],
+    "partners": [
+      "Tyranitar",
+      "Starmie",
+      "Swampert",
+      "Salamence",
+      "Zapdos",
+      "Dugtrio",
+      "Gengar",
+      "Celebi",
+      "Alakazam",
+      "Skarmory"
+    ],
+    "moves": [
+      "Toxic",
+      "Rest",
+      "Encore",
+      "Wrap",
+      "Protect",
+      "Mimic",
+      "Bide",
+      "Defense Curl",
+      "Substitute",
+      "Nothing"
+    ]
+  },
+  "Feraligatr": {
+    "counters": [],
+    "partners": [
+      "Charizard",
+      "Regice",
+      "Metagross",
+      "Gengar",
+      "Heracross",
+      "Skarmory",
+      "Claydol",
+      "Donphan",
+      "Machamp",
+      "Celebi"
+    ],
+    "moves": [
+      "Earthquake",
+      "Swords Dance",
+      "Rock Slide",
+      "Hydro Pump",
+      "Surf",
+      "Counter",
+      "Ice Beam",
+      "Roar",
+      "Focus Punch",
+      "Hidden Power Grass"
+    ]
+  },
+  "Volbeat": {
+    "counters": [],
+    "partners": [
+      "Starmie",
+      "Stantler",
+      "Roselia",
+      "Lanturn",
+      "Smeargle",
+      "Weezing",
+      "Camerupt",
+      "Regice",
+      "Misdreavus",
+      "Slowbro"
+    ],
+    "moves": [
+      "Signal Beam",
+      "Substitute",
+      "Thunder Wave",
+      "Confuse Ray",
+      "Tail Glow",
+      "Baton Pass",
+      "Trick",
+      "Nothing"
+    ]
+  },
+  "Diglett": {
+    "counters": [
+      "Jirachi",
+      "Blissey",
+      "Tyranitar"
+    ],
+    "partners": [
+      "Dugtrio",
+      "Trapinch",
+      "Magneton",
+      "Starmie",
+      "Snorlax",
+      "Gardevoir",
+      "Zapdos",
+      "Jolteon",
+      "Heracross",
+      "Claydol"
+    ],
+    "moves": [
+      "Sand Attack",
+      "Sunny Day",
+      "Growl",
+      "Rest",
+      "Substitute",
+      "Protect",
+      "Earthquake",
+      "Thief",
+      "Secret Power",
+      "Rock Slide"
+    ]
+  },
+  "Sneasel": {
+    "counters": [],
+    "partners": [
+      "Metagross",
+      "Claydol",
+      "Magneton",
+      "Celebi",
+      "Snorlax",
+      "Starmie",
+      "Salamence",
+      "Dugtrio",
+      "Tyranitar",
+      "Regirock"
+    ],
+    "moves": [
+      "Brick Break",
+      "Shadow Ball",
+      "Swords Dance",
+      "Double-Edge",
+      "Taunt",
+      "Ice Punch",
+      "Hidden Power Bug",
+      "Frustration",
+      "Hidden Power Ghost",
+      "Substitute"
+    ]
+  },
+  "Onix": {
+    "counters": [],
+    "partners": [
+      "Aerodactyl",
+      "Skarmory",
+      "Gengar",
+      "Blissey",
+      "Celebi",
+      "Charizard",
+      "Milotic",
+      "Golem",
+      "Omastar",
+      "Rhydon"
+    ],
+    "moves": [
+      "Earthquake",
+      "Explosion",
+      "Double-Edge",
+      "Rock Slide",
+      "Protect",
+      "Rest",
+      "Mud-Slap",
+      "Block",
+      "Nothing"
+    ]
+  },
+  "Manectric": {
+    "counters": [],
+    "partners": [
+      "Swampert",
+      "Blaziken",
+      "Metagross",
+      "Flygon",
+      "Salamence",
+      "Gardevoir",
+      "Breloom",
+      "Aggron",
+      "Ludicolo",
+      "Ninjask"
+    ],
+    "moves": [
+      "Thunderbolt",
+      "Crunch",
+      "Thunder Wave",
+      "Thunder",
+      "Hidden Power Grass",
+      "Substitute",
+      "Roar",
+      "Hidden Power Ice",
+      "Toxic",
+      "Bite"
+    ]
+  },
+  "Togetic": {
+    "counters": [],
+    "partners": [
+      "Swampert",
+      "Magneton",
+      "Salamence",
+      "Zapdos",
+      "Dugtrio",
+      "Octillery",
+      "Starmie",
+      "Tyranitar",
+      "Heracross",
+      "Camerupt"
+    ],
+    "moves": [
+      "Baton Pass",
+      "Ancient Power",
+      "Thunder Wave",
+      "Substitute",
+      "Fire Blast",
+      "Body Slam",
+      "Soft-Boiled",
+      "Solar Beam",
+      "Wish",
+      "Encore"
+    ]
+  },
+  "Raticate": {
+    "counters": [],
+    "partners": [
+      "Dugtrio",
+      "Jolteon",
+      "Starmie",
+      "Houndoom",
+      "Rattata",
+      "Charizard",
+      "Tentacruel",
+      "Hitmonlee",
+      "Electrode",
+      "Regice"
+    ],
+    "moves": [
+      "Return",
+      "Substitute",
+      "Thunder Wave",
+      "Super Fang",
+      "Shadow Ball",
+      "Quick Attack",
+      "Hidden Power Ground",
+      "Endeavor",
+      "Hidden Power Fighting",
+      "Double-Edge"
+    ]
+  },
+  "Haunter": {
+    "counters": [],
+    "partners": [
+      "Gengar",
+      "Dragonite",
+      "Metagross",
+      "Electabuzz",
+      "Dusclops",
+      "Misdreavus",
+      "Banette",
+      "Shedinja",
+      "Registeel",
+      "Houndoom"
+    ],
+    "moves": [
+      "Giga Drain",
+      "Thunderbolt",
+      "Destiny Bond",
+      "Hidden Power Ice",
+      "Hypnosis",
+      "Rain Dance",
+      "Psychic",
+      "Explosion",
+      "Will-O-Wisp",
+      "Endure"
+    ]
+  },
+  "Lickitung": {
+    "counters": [],
+    "partners": [
+      "Claydol",
+      "Blissey",
+      "Metagross",
+      "Dugtrio",
+      "Skarmory",
+      "Suicune",
+      "Magneton",
+      "Gengar",
+      "Flygon",
+      "Aerodactyl"
+    ],
+    "moves": [
+      "Wish",
+      "Seismic Toss",
+      "Knock Off",
+      "Protect",
+      "Heal Bell",
+      "Toxic",
+      "Body Slam",
+      "Nothing"
+    ]
+  }
+}
