@@ -32,7 +32,11 @@ class OpenRouterProvider(LLMProvider):
         try:
             self.client = openai.OpenAI(
                 api_key=self.api_key,
-                base_url=kwargs.get('host', 'https://openrouter.ai/api/v1')
+                base_url=kwargs.get('host', 'https://openrouter.ai/api/v1'),
+                default_headers={
+                    "HTTP-Referer": "https://github.com/adv-bench",  # OpenRouter requires this
+                    "X-Title": "ADV OU Pokemon Benchmark"  # Optional but recommended
+                }
             )
             self.client_configured = True
         except Exception as e:
