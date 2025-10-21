@@ -90,6 +90,24 @@ models:
   enabled: true
   max_tokens: 1000
   temperature: 0
+- provider: openrouter
+  model_name: anthropic/claude-sonnet-4.5
+  api_key: ${OPENROUTER_API_KEY}
+  enabled: true
+  max_tokens: 1000
+  temperature: 0
+- provider: openrouter
+  model_name: anthropic/claude-haiku-4.5
+  api_key: ${OPENROUTER_API_KEY}
+  enabled: true
+  max_tokens: 1000
+  temperature: 0
+- provider: openrouter
+  model_name: zhipuai/glm-4.6
+  api_key: ${OPENROUTER_API_KEY}
+  enabled: true
+  max_tokens: 1000
+  temperature: 0
 output_dir: results
 parallel: true
 save_raw_responses: true
